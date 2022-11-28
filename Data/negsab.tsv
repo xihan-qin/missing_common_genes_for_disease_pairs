@@ -1,0 +1,2993 @@
+abnormalities, multiple	chromosome disorders	-0.119505376346
+abnormalities, multiple	congenital abnormalities	-0.489023970817
+abnormalities, multiple	musculoskeletal abnormalities	-0.193014662755
+abnormalities, multiple	musculoskeletal diseases	-0.0352534872527
+abnormalities, multiple	skin abnormalities	-0.0504291497977
+actinomycetales infections	ankylosis	-0.0900178253129
+actinomycetales infections	arthritis, rheumatoid	-0.155844155845
+actinomycetales infections	bacterial infections	-1.24970862471
+actinomycetales infections	bacterial infections and mycoses	-1.15492654742
+actinomycetales infections	gram-positive bacterial infections	-1.45454545455
+actinomycetales infections	leprosy	-0.963536463537
+actinomycetales infections	mycobacterium infections	-1.45454545455
+actinomycetales infections	rheumatic diseases	-0.00274876828525
+actinomycetales infections	spondylitis, ankylosing	-0.0900178253129
+adenocarcinoma	albuminuria	-0.0551242236015
+adenocarcinoma	ankylosis	-0.0037878787869
+adenocarcinoma	carcinoma	-1.23457792208
+adenocarcinoma	carcinoma, renal cell	-1.17944444445
+adenocarcinoma	digestive system neoplasms	-0.233889349358
+adenocarcinoma	gastrointestinal neoplasms	-0.0064102564115
+adenocarcinoma	goiter	-0.0208333333328
+adenocarcinoma	kidney diseases	-0.085542929293
+adenocarcinoma	kidney neoplasms	-1.17692307692
+adenocarcinoma	liver diseases	-0.0280835498451
+adenocarcinoma	lymphoma	-0.122023809524
+adenocarcinoma	lymphoma, non-hodgkin	-0.0803872053861
+adenocarcinoma	myocardial infarction	-0.0536324786314
+adenocarcinoma	neoplasms by histologic type	-0.0875737609848
+adenocarcinoma	neoplasms by site	-0.0622829861112
+adenocarcinoma	neoplasms, germ cell and embryonal	-0.166666666666
+adenocarcinoma	neoplasms, glandular and epithelial	-0.791101773609
+adenocarcinoma	neoplasms, nerve tissue	-0.149754346184
+adenocarcinoma	neoplasms, neuroepithelial	-0.0416666666655
+adenocarcinoma	neoplastic syndromes, hereditary	-0.0207219251329
+adenocarcinoma	neuroectodermal tumors	-0.165061944519
+adenocarcinoma	neuroendocrine tumors	-0.053571428571
+adenocarcinoma	proteinuria	-0.0551242236015
+adenocarcinoma	spondylitis, ankylosing	-0.0037878787869
+adenocarcinoma	urogenital neoplasms	-0.234315075894
+adenocarcinoma	urologic diseases	-0.0197584478444
+adenocarcinoma	urologic neoplasms	-0.968445980544
+adenocarcinoma	urological manifestations	-0.0551242236015
+adnexal diseases	colorectal neoplasms	-0.025425554837
+adnexal diseases	endocrine gland neoplasms	-0.666500166501
+adnexal diseases	genital diseases, female	-1.42142266336
+adnexal diseases	genital neoplasms, female	-1.09615384615
+adnexal diseases	glioma	-0.148479427548
+adnexal diseases	gonadal disorders	-0.751184937165
+adnexal diseases	intestinal neoplasms	-0.025425554837
+adnexal diseases	myocardial infarction	-0.0384615384613
+adnexal diseases	neoplasms, neuroepithelial	-0.10282051282
+adnexal diseases	ovarian diseases	-1.69230769231
+adnexal diseases	ovarian neoplasms	-1.30374618542
+adnexal diseases	rectal diseases	-0.0561142309862
+adnexal diseases	urogenital neoplasms	-0.172122250043
+adrenal gland diseases	disorders of sex development	-0.249970109997
+adrenal gland diseases	myocardial infarction	-0.021116138762
+albuminuria	amyotrophic lateral sclerosis	-0.171428571428
+albuminuria	anemia	-0.0058155446098
+albuminuria	anemia, aplastic	-0.0285714285691
+albuminuria	aneurysm	-0.161083743843
+albuminuria	ankylosis	-0.289377289377
+albuminuria	arrhythmias, cardiac	-0.0774891774893
+albuminuria	arterial occlusive diseases	-0.162729511866
+albuminuria	arteriosclerosis	-0.182764603816
+albuminuria	arthritis	-0.0126566416029
+albuminuria	arthritis, rheumatoid	-0.0178571428575
+albuminuria	asthma	-0.131428571428
+albuminuria	ataxia	-0.0274891774888
+albuminuria	basal ganglia diseases	-0.0974172719927
+albuminuria	bile duct diseases	-0.0886328725037
+albuminuria	biliary tract diseases	-0.114484126987
+albuminuria	body weight	-0.051485551485
+albuminuria	bone diseases, metabolic	-0.0619434765798
+albuminuria	bone marrow diseases	-0.0706159408266
+albuminuria	bronchial diseases	-0.158465608465
+albuminuria	carcinoma	-0.105357142857
+albuminuria	carcinoma, renal cell	-0.140873015874
+albuminuria	cardiovascular abnormalities	-0.0484400656813
+albuminuria	carotid artery diseases	-0.217405582922
+albuminuria	celiac disease	-0.30999066293
+albuminuria	cerebellar ataxia	-0.0274891774888
+albuminuria	cerebellar diseases	-0.0124343741363
+albuminuria	cerebrovascular disorders	-0.0960187353637
+albuminuria	charcot-marie-tooth disease	-0.0145180023232
+albuminuria	cholestasis	-0.0595238095245
+albuminuria	cholestasis, intrahepatic	-0.0595238095245
+albuminuria	chromosome disorders	-0.0244588744584
+albuminuria	colitis	-0.0693799158597
+albuminuria	colitis, ulcerative	-0.0693799158597
+albuminuria	colorectal neoplasms	-0.0595238095235
+albuminuria	coronary artery disease	-0.282181259601
+albuminuria	coronary disease	-0.202854114619
+albuminuria	cranial nerve diseases	-0.0578889195914
+albuminuria	crohn disease	-0.0931219500887
+albuminuria	death	-0.187856003646
+albuminuria	death, sudden	-0.187856003646
+albuminuria	death, sudden, cardiac	-0.220853858785
+albuminuria	diabetes mellitus, type 2	-0.187707641197
+albuminuria	dwarfism	-0.115659340659
+albuminuria	dyskinesias	-0.0471347861172
+albuminuria	ectodermal dysplasia	-0.0401785714285
+albuminuria	epilepsy	-0.0986080586085
+albuminuria	esophageal diseases	-0.0714285714284
+albuminuria	exophthalmos	-0.0614570614588
+albuminuria	female urogenital diseases	-0.0919049949899
+albuminuria	female urogenital diseases and pregnancy complications	-0.0755228326811
+albuminuria	glioma	-0.3133640553
+albuminuria	glomerulonephritis	-0.137400793651
+albuminuria	goiter	-0.154761904762
+albuminuria	gout	-0.32214082214
+albuminuria	graves disease	-0.0614570614588
+albuminuria	hair diseases	-0.0401785714285
+albuminuria	heart arrest	-0.220853858785
+albuminuria	heart defects, congenital	-0.0803275156241
+albuminuria	hereditary sensory and motor neuropathy	-0.0565684315672
+albuminuria	hyperinsulinism	-0.213736263736
+albuminuria	hypersensitivity	-0.0915792305611
+albuminuria	hypersensitivity, immediate	-0.0915792305611
+albuminuria	hyperthyroidism	-0.0614570614588
+albuminuria	hypothalamic diseases	-0.0849420849442
+albuminuria	hypotrichosis	-0.0357142857163
+albuminuria	immunologic deficiency syndromes	-0.0781830462681
+albuminuria	insulin resistance	-0.213736263736
+albuminuria	intestinal neoplasms	-0.0595238095235
+albuminuria	joint diseases	-0.0116082365976
+albuminuria	keratosis	-0.090476190476
+albuminuria	kidney neoplasms	-0.164075630253
+albuminuria	leukemia, b-cell	-0.21089726213
+albuminuria	leukemia, lymphocytic, chronic, b-cell	-0.256486042694
+albuminuria	leukemia, lymphoid	-0.0672619047622
+albuminuria	leukemia, myeloid	-0.0959383753491
+albuminuria	leukemia, myeloid, acute	-0.110392259721
+albuminuria	limb deformities, congenital	-0.0483025746211
+albuminuria	liver cirrhosis	-0.133928571427
+albuminuria	liver cirrhosis, biliary	-0.133708242404
+albuminuria	lung diseases	-0.0422653568451
+albuminuria	lung diseases, obstructive	-0.118598382749
+albuminuria	lung neoplasms	-0.196428571429
+albuminuria	lymphoma	-0.129542606517
+albuminuria	lymphoma, non-hodgkin	-0.119408369406
+albuminuria	malabsorption syndromes	-0.30999066293
+albuminuria	malformations of cortical development	-0.277310924368
+albuminuria	mental retardation, x-linked	-0.0545979703347
+albuminuria	metabolic syndrome x	-0.107142857142
+albuminuria	motor neuron disease	-0.177521761393
+albuminuria	mouth diseases	-0.0538847117786
+albuminuria	movement disorders	-0.104645354644
+albuminuria	myeloproliferative disorders	-0.13681932103
+albuminuria	myocardial infarction	-0.327838827838
+albuminuria	myocardial ischemia	-0.1730197587
+albuminuria	neoplasms, connective and soft tissue	-0.0423820082355
+albuminuria	neoplasms, germ cell and embryonal	-0.128246753246
+albuminuria	neoplasms, glandular and epithelial	-0.111136218424
+albuminuria	neoplasms, nerve tissue	-0.137188208617
+albuminuria	neoplasms, neuroepithelial	-0.251253132831
+albuminuria	nephritis	-0.0007215007218
+albuminuria	neuroectodermal tumors	-0.132293587125
+albuminuria	nevi and melanomas	-0.163095238095
+albuminuria	obesity	-0.051485551485
+albuminuria	ocular motility disorders	-0.199512062888
+albuminuria	orbital diseases	-0.0614570614588
+albuminuria	osteoporosis	-0.0357142857151
+albuminuria	otorhinolaryngologic diseases	-0.10607531056
+albuminuria	ovarian neoplasms	-0.0050149091899
+albuminuria	overnutrition	-0.051485551485
+albuminuria	overweight	-0.051485551485
+albuminuria	pancreatic diseases	-0.181077694235
+albuminuria	parkinson disease	-0.18354978355
+albuminuria	parkinsonian disorders	-0.207629288276
+albuminuria	pathologic processes	-0.0161401098905
+albuminuria	pathological conditions, signs and symptoms	-0.229571219617
+albuminuria	peripheral nervous system diseases	-0.0541077680381
+albuminuria	polyneuropathies	-0.0311007025758
+albuminuria	precursor cell lymphoblastic leukemia-lymphoma	-0.0936507936505
+albuminuria	proteinuria	-3.14285714286
+albuminuria	proteostasis deficiencies	-0.0183673469386
+albuminuria	purine-pyrimidine metabolism, inborn errors	-0.163095238097
+albuminuria	rectal diseases	-0.155657962108
+albuminuria	respiratory hypersensitivity	-0.109890109891
+albuminuria	respiratory tract diseases	-0.0127551020412
+albuminuria	respiratory tract neoplasms	-0.196428571429
+albuminuria	rheumatic diseases	-0.110899200635
+albuminuria	sarcoma	-0.1263003663
+albuminuria	signs and symptoms	-0.546480818032
+albuminuria	skin diseases, vascular	-0.0790187042558
+albuminuria	spastic paraplegia, hereditary	-0.280252100841
+albuminuria	spinal diseases	-0.003273459798
+albuminuria	spinocerebellar ataxias	-0.041666666668
+albuminuria	spinocerebellar degenerations	-0.0380952380976
+albuminuria	spondylarthritis	-0.0818452380955
+albuminuria	spondylarthropathies	-0.0818452380955
+albuminuria	spondylitis	-0.0818452380955
+albuminuria	spondylitis, ankylosing	-0.289377289377
+albuminuria	stomatognathic diseases	-0.145355439473
+albuminuria	stomatognathic system abnormalities	-0.25
+albuminuria	tauopathies	-0.0020408163261
+albuminuria	tdp-43 proteinopathies	-0.0611721611725
+albuminuria	thoracic neoplasms	-0.164075630253
+albuminuria	thyroid diseases	-0.239610389609
+albuminuria	urination disorders	-2.82142857143
+albuminuria	urologic diseases	-0.208824199538
+albuminuria	urologic neoplasms	-0.0363031234018
+albuminuria	urological manifestations	-3.14285714286
+albuminuria	varicose veins	-0.253781512605
+albuminuria	vasculitis	-0.0518883415423
+albuminuria	virus diseases	-0.123152709358
+alzheimer disease	basal ganglia diseases	-0.008139173655
+alzheimer disease	dementia	-1.42223455676
+alzheimer disease	movement disorders	-0.006803222319
+alzheimer disease	myocardial infarction	-0.0166729821889
+alzheimer disease	neurodegenerative diseases	-0.0147212754433
+alzheimer disease	parkinson disease	-0.166315994545
+alzheimer disease	parkinsonian disorders	-0.159955506117
+alzheimer disease	tauopathies	-1.59181034483
+amyotrophic lateral sclerosis	ankylosis	-5.99964522507e-13
+amyotrophic lateral sclerosis	ataxia	-0.129411764705
+amyotrophic lateral sclerosis	cerebellar ataxia	-0.129411764705
+amyotrophic lateral sclerosis	cerebellar diseases	-0.094276094276
+amyotrophic lateral sclerosis	dyskinesias	-0.115151515151
+amyotrophic lateral sclerosis	glioma	-0.105263157893
+amyotrophic lateral sclerosis	leukemia, b-cell	-0.058823529412
+amyotrophic lateral sclerosis	leukemia, lymphocytic, chronic, b-cell	-0.133333333336
+amyotrophic lateral sclerosis	motor neuron disease	-1.54156327543
+amyotrophic lateral sclerosis	neoplasms, neuroepithelial	-0.0055555555558
+amyotrophic lateral sclerosis	neuromuscular diseases	-0.0488775028659
+amyotrophic lateral sclerosis	proteinuria	-0.171428571428
+amyotrophic lateral sclerosis	proteostasis deficiencies	-1.35
+amyotrophic lateral sclerosis	spinal cord diseases	-0.838983050848
+amyotrophic lateral sclerosis	spinocerebellar ataxias	-0.170918367347
+amyotrophic lateral sclerosis	spinocerebellar degenerations	-0.1431372549
+amyotrophic lateral sclerosis	spondylitis, ankylosing	-5.99964522507e-13
+amyotrophic lateral sclerosis	tdp-43 proteinopathies	-1.74782608696
+amyotrophic lateral sclerosis	urological manifestations	-0.171428571428
+amyotrophic lateral sclerosis	varicose veins	-0.0073170731725
+anemia	anemia, aplastic	-0.206413294256
+anemia	anemia, hemolytic	-0.78448275862
+anemia	bone marrow diseases	-0.273098402994
+anemia	hematologic diseases	-0.291404213566
+anemia	proteinuria	-0.0058155446098
+anemia	urological manifestations	-0.0058155446098
+anemia, aplastic	bone marrow diseases	-0.304691283293
+anemia, aplastic	proteinuria	-0.0285714285691
+anemia, aplastic	urological manifestations	-0.0285714285691
+aneurysm	carotid artery diseases	-5.06261699229e-14
+aneurysm	cerebrovascular disorders	-0.158064516129
+aneurysm	glioma	-0.0874999999996
+aneurysm	myocardial infarction	-0.180219780219
+aneurysm	neoplasms, neuroepithelial	-0.150000000002
+aneurysm	pancreatic diseases	-0.0858974358995
+aneurysm	proteinuria	-0.161083743843
+aneurysm	stomatognathic system abnormalities	-0.0847290640391
+aneurysm	urination disorders	-0.0481854838695
+aneurysm	urological manifestations	-0.161083743843
+ankylosis	arthritis	-0.536682615632
+ankylosis	arthritis, rheumatoid	-0.0026455026465
+ankylosis	behcet syndrome	-0.450256410257
+ankylosis	bile duct diseases	-0.0846461615426
+ankylosis	biliary tract diseases	-0.0323717948738
+ankylosis	bone diseases	-0.0112179487176
+ankylosis	bone marrow diseases	-0.0227580170287
+ankylosis	celiac disease	-0.292270531403
+ankylosis	cholestasis	-0.0726190476196
+ankylosis	cholestasis, intrahepatic	-0.0726190476196
+ankylosis	colitis	-0.11528720036
+ankylosis	colitis, ulcerative	-0.11528720036
+ankylosis	crohn disease	-0.0973754171604
+ankylosis	demyelinating autoimmune diseases, cns	-0.0861207897792
+ankylosis	exophthalmos	-0.124102564102
+ankylosis	glioma	-0.0574712643662
+ankylosis	goiter	-0.261904761905
+ankylosis	gram-positive bacterial infections	-0.0900178253129
+ankylosis	graves disease	-0.124102564102
+ankylosis	hyperthyroidism	-0.124102564102
+ankylosis	joint diseases	-0.521120229984
+ankylosis	leukemia, b-cell	-0.08181203516
+ankylosis	leukemia, lymphocytic, chronic, b-cell	-0.133333333336
+ankylosis	leukemia, myeloid	-0.0606060606051
+ankylosis	leukemia, myeloid, acute	-0.115997181114
+ankylosis	liver cirrhosis	-0.201388888889
+ankylosis	liver cirrhosis, biliary	-0.18364389234
+ankylosis	lymphoma	-0.0069444444443
+ankylosis	malabsorption syndromes	-0.292270531403
+ankylosis	motor neuron disease	-0.0148787196806
+ankylosis	mouth diseases	-0.277777777779
+ankylosis	multiple sclerosis	-0.088030059044
+ankylosis	mycobacterium infections	-0.0900178253129
+ankylosis	myeloproliferative disorders	-0.0404640633847
+ankylosis	orbital diseases	-0.124102564102
+ankylosis	pancreatic diseases	-2.10009787338e-12
+ankylosis	panuveitis	-0.450256410257
+ankylosis	proteinuria	-0.289377289377
+ankylosis	psoriasis	-0.240740740741
+ankylosis	rheumatic diseases	-0.0009150950902
+ankylosis	skin diseases, papulosquamous	-0.240740740741
+ankylosis	skin diseases, vascular	-0.387085868832
+ankylosis	spastic paraplegia, hereditary	-0.0458333333336
+ankylosis	spinal diseases	-1.53892339545
+ankylosis	spondylarthritis	-1.91666666667
+ankylosis	spondylarthropathies	-1.91666666667
+ankylosis	spondylitis	-1.91666666667
+ankylosis	spondylitis, ankylosing	-2.66666666667
+ankylosis	stomatognathic diseases	-0.189373046517
+ankylosis	thyroid diseases	-0.0999999999991
+ankylosis	urination disorders	-0.168154761905
+ankylosis	urological manifestations	-0.289377289377
+ankylosis	uveal diseases	-0.387085868833
+ankylosis	uveitis	-0.450256410257
+ankylosis	uveitis, anterior	-0.450256410257
+ankylosis	varicose veins	-0.0708333333336
+ankylosis	vasculitis	-0.400000000002
+arrhythmias, cardiac	cardiovascular abnormalities	-0.316405433647
+arrhythmias, cardiac	death	-0.114912280704
+arrhythmias, cardiac	death, sudden	-0.114912280704
+arrhythmias, cardiac	heart defects, congenital	-0.463362381991
+arrhythmias, cardiac	heart diseases	-0.18531515649
+arrhythmias, cardiac	myocardial infarction	-0.104084675016
+arrhythmias, cardiac	pathologic processes	-0.847030141843
+arrhythmias, cardiac	pathological conditions, signs and symptoms	-0.0005851282168
+arrhythmias, cardiac	proteinuria	-0.0774891774893
+arrhythmias, cardiac	urological manifestations	-0.0774891774893
+arterial occlusive diseases	arteriosclerosis	-1.99038685961
+arterial occlusive diseases	cardiovascular diseases	-0.161987522281
+arterial occlusive diseases	carotid artery diseases	-0.340434001026
+arterial occlusive diseases	cerebrovascular disorders	-0.25462037962
+arterial occlusive diseases	coronary artery disease	-1.86090420332
+arterial occlusive diseases	coronary disease	-1.65992128492
+arterial occlusive diseases	death	-0.0296669704565
+arterial occlusive diseases	death, sudden	-0.0296669704565
+arterial occlusive diseases	death, sudden, cardiac	-0.0031458654333
+arterial occlusive diseases	dementia	-0.0191659116086
+arterial occlusive diseases	endocrine gland neoplasms	-0.016467304626
+arterial occlusive diseases	glioma	-0.155178837557
+arterial occlusive diseases	heart arrest	-0.0031458654333
+arterial occlusive diseases	heart diseases	-0.447146529862
+arterial occlusive diseases	leukemia, b-cell	-0.0500679407391
+arterial occlusive diseases	leukemia, lymphocytic, chronic, b-cell	-0.0884565998976
+arterial occlusive diseases	limb deformities, congenital	-0.014211665528
+arterial occlusive diseases	lung diseases	-0.0468365529126
+arterial occlusive diseases	lung neoplasms	-0.218108504398
+arterial occlusive diseases	lymphoma	-0.0801024955435
+arterial occlusive diseases	lymphoma, non-hodgkin	-0.0265151515152
+arterial occlusive diseases	myocardial infarction	-0.585158262791
+arterial occlusive diseases	myocardial ischemia	-1.55254125052
+arterial occlusive diseases	neoplasms, germ cell and embryonal	-0.0151515151501
+arterial occlusive diseases	neoplasms, glandular and epithelial	-0.0143665471137
+arterial occlusive diseases	neoplasms, nerve tissue	-0.0101866259696
+arterial occlusive diseases	neoplasms, neuroepithelial	-0.105837789662
+arterial occlusive diseases	neuroectodermal tumors	-0.0060816842731
+arterial occlusive diseases	pancreatic diseases	-0.0372103386818
+arterial occlusive diseases	proteinuria	-0.162729511866
+arterial occlusive diseases	respiratory tract diseases	-0.0300324675322
+arterial occlusive diseases	respiratory tract neoplasms	-0.218108504398
+arterial occlusive diseases	thoracic neoplasms	-0.188068181818
+arterial occlusive diseases	urination disorders	-0.0464015151526
+arterial occlusive diseases	urological manifestations	-0.162729511866
+arterial occlusive diseases	vascular diseases	-0.53551676991
+arteriosclerosis	carcinoma	-0.0147876339782
+arteriosclerosis	cardiovascular diseases	-0.0779418902999
+arteriosclerosis	cerebrovascular disorders	-0.0097523219819
+arteriosclerosis	coronary artery disease	-2.05213331365
+arteriosclerosis	coronary disease	-1.82706021811
+arteriosclerosis	dementia	-0.0605576441098
+arteriosclerosis	endocrine gland neoplasms	-0.0265621919982
+arteriosclerosis	esophageal diseases	-0.0114601018682
+arteriosclerosis	glioma	-0.183014354065
+arteriosclerosis	heart diseases	-0.411135495375
+arteriosclerosis	hyperinsulinism	-0.0031629554648
+arteriosclerosis	insulin resistance	-0.0031629554648
+arteriosclerosis	leukemia, b-cell	-0.0418378834763
+arteriosclerosis	leukemia, lymphocytic, chronic, b-cell	-0.0744952002633
+arteriosclerosis	limb deformities, congenital	-0.0570175438604
+arteriosclerosis	lung diseases	-0.0415173319
+arteriosclerosis	lung neoplasms	-0.252819548873
+arteriosclerosis	lymphoma	-0.10352999434
+arteriosclerosis	lymphoma, non-hodgkin	-0.0511961722505
+arteriosclerosis	myocardial infarction	-0.672044931331
+arteriosclerosis	myocardial ischemia	-1.70149372138
+arteriosclerosis	neoplasms, germ cell and embryonal	-0.0448830409333
+arteriosclerosis	neoplasms, glandular and epithelial	-0.0417204095779
+arteriosclerosis	neoplasms, nerve tissue	-0.0399119720498
+arteriosclerosis	neoplasms, neuroepithelial	-0.137804187888
+arteriosclerosis	neuroectodermal tumors	-0.0350339239833
+arteriosclerosis	pancreatic diseases	-0.0786644029406
+arteriosclerosis	proteinuria	-0.182764603816
+arteriosclerosis	respiratory tract neoplasms	-0.252819548873
+arteriosclerosis	thoracic neoplasms	-0.222277676951
+arteriosclerosis	urination disorders	-0.0724293372313
+arteriosclerosis	urological manifestations	-0.182764603816
+arteriosclerosis	vascular diseases	-0.469738402239
+arthritis	arthritis, rheumatoid	-1.22629667389
+arthritis	autoimmune diseases	-0.297647952266
+arthritis	autoimmune diseases of the nervous system	-0.171591031455
+arthritis	bone diseases	-0.0476674641145
+arthritis	celiac disease	-0.0644603934089
+arthritis	colitis	-0.0285748201177
+arthritis	colitis, ulcerative	-0.0285748201177
+arthritis	connective tissue diseases	-0.409706919034
+arthritis	demyelinating autoimmune diseases, cns	-0.27511587187
+arthritis	demyelinating diseases	-0.165674784509
+arthritis	diabetes mellitus	-0.0601148841603
+arthritis	diabetes mellitus, type 1	-0.194557287012
+arthritis	gastroenteritis	-0.026043436958
+arthritis	glucose metabolism disorders	-0.0293517658673
+arthritis	gout	-0.334428876858
+arthritis	immune system diseases	-0.0664137137392
+arthritis	inflammatory bowel diseases	-0.0271362796129
+arthritis	joint diseases	-1.78033246653
+arthritis	liver cirrhosis	-0.0403947368411
+arthritis	lung diseases	-0.0267507299419
+arthritis	lupus erythematosus, systemic	-0.152221447658
+arthritis	malabsorption syndromes	-0.0644603934089
+arthritis	multiple sclerosis	-0.276810279069
+arthritis	musculoskeletal diseases	-0.4198562205
+arthritis	proteinuria	-0.0126566416029
+arthritis	psoriasis	-0.292225221172
+arthritis	purine-pyrimidine metabolism, inborn errors	-0.206807780319
+arthritis	rheumatic diseases	-1.68460534576
+arthritis	skin and connective tissue diseases	-0.0202715123294
+arthritis	skin diseases, papulosquamous	-0.292225221172
+arthritis	spinal diseases	-0.364855650327
+arthritis	spondylarthritis	-0.441582680106
+arthritis	spondylarthropathies	-0.441582680106
+arthritis	spondylitis	-0.441582680106
+arthritis	spondylitis, ankylosing	-0.536682615632
+arthritis	stomatognathic diseases	-0.158552474227
+arthritis	urological manifestations	-0.0126566416029
+arthritis, rheumatoid	asthma	-0.0311355311366
+arthritis, rheumatoid	autoimmune diseases	-0.241263652959
+arthritis, rheumatoid	autoimmune diseases of the nervous system	-0.0600413080902
+arthritis, rheumatoid	bacterial infections	-0.144634776988
+arthritis, rheumatoid	bacterial infections and mycoses	-0.134739471311
+arthritis, rheumatoid	bile duct diseases	-0.022031437408
+arthritis, rheumatoid	biliary tract diseases	-0.0014372822314
+arthritis, rheumatoid	bronchial diseases	-0.0273519163774
+arthritis, rheumatoid	celiac disease	-0.0528404344209
+arthritis, rheumatoid	connective tissue diseases	-0.458887884268
+arthritis, rheumatoid	demyelinating autoimmune diseases, cns	-0.15892857143
+arthritis, rheumatoid	demyelinating diseases	-0.0472351218564
+arthritis, rheumatoid	diabetes mellitus	-0.00936300446089
+arthritis, rheumatoid	diabetes mellitus, type 1	-0.234629650443
+arthritis, rheumatoid	exophthalmos	-0.0138861138853
+arthritis, rheumatoid	glomerulonephritis	-0.150793650793
+arthritis, rheumatoid	goiter	-0.0923645320194
+arthritis, rheumatoid	gram-positive bacterial infections	-0.155844155845
+arthritis, rheumatoid	graves disease	-0.0138861138853
+arthritis, rheumatoid	hyperthyroidism	-0.0138861138853
+arthritis, rheumatoid	joint diseases	-1.19146503669
+arthritis, rheumatoid	liver cirrhosis	-0.142586580086
+arthritis, rheumatoid	liver cirrhosis, biliary	-0.0733874820835
+arthritis, rheumatoid	lung diseases, obstructive	-0.039682539683
+arthritis, rheumatoid	lupus erythematosus, systemic	-0.257802197804
+arthritis, rheumatoid	lymphoma	-0.0592532467524
+arthritis, rheumatoid	malabsorption syndromes	-0.0528404344209
+arthritis, rheumatoid	multiple sclerosis	-0.162413966761
+arthritis, rheumatoid	musculoskeletal diseases	-0.0100738913808
+arthritis, rheumatoid	mycobacterium infections	-0.155844155845
+arthritis, rheumatoid	orbital diseases	-0.0138861138853
+arthritis, rheumatoid	otorhinolaryngologic diseases	-0.0202099420864
+arthritis, rheumatoid	proteinuria	-0.0178571428575
+arthritis, rheumatoid	psoriasis	-0.117228835978
+arthritis, rheumatoid	respiratory hypersensitivity	-0.0285714285714
+arthritis, rheumatoid	rheumatic diseases	-1.51415625824
+arthritis, rheumatoid	skin diseases, papulosquamous	-0.117228835978
+arthritis, rheumatoid	spondylitis, ankylosing	-0.0026455026465
+arthritis, rheumatoid	stomatognathic diseases	-0.154024729973
+arthritis, rheumatoid	thyroid diseases	-0.0702380952395
+arthritis, rheumatoid	urological manifestations	-0.0178571428575
+asthma	bronchial diseases	-1.89615384615
+asthma	celiac disease	-0.125396825399
+asthma	glomerulonephritis	-0.037037037037
+asthma	hypersensitivity	-1.74886211513
+asthma	hypersensitivity, immediate	-1.74886211513
+asthma	lung diseases	-1.16959555498
+asthma	lung diseases, obstructive	-1.87012987013
+asthma	lymphoma	-0.0458333333342
+asthma	malabsorption syndromes	-0.125396825399
+asthma	otorhinolaryngologic diseases	-0.122242647058
+asthma	proteinuria	-0.131428571428
+asthma	respiratory hypersensitivity	-1.94736842105
+asthma	respiratory tract diseases	-1.03366510538
+asthma	rheumatic diseases	-0.0336306868873
+asthma	urological manifestations	-0.131428571428
+asthma	virus diseases	-0.0196078431355
+ataxia	cerebellar ataxia	-1.86666666667
+ataxia	cerebellar diseases	-1.76305916306
+ataxia	dyskinesias	-1.46666666667
+ataxia	heredodegenerative disorders, nervous system	-0.117264957267
+ataxia	leukemia, b-cell	-0.0134334584892
+ataxia	leukemia, lymphocytic, chronic, b-cell	-0.0444444444447
+ataxia	motor neuron disease	-0.113925612553
+ataxia	neurodegenerative diseases	-0.0167166618107
+ataxia	neurologic manifestations	-0.275517627586
+ataxia	ocular motility disorders	-0.0034209428432
+ataxia	proteinuria	-0.0274891774888
+ataxia	proteostasis deficiencies	-0.0091575091591
+ataxia	spinal cord diseases	-1.03074335047
+ataxia	spinocerebellar ataxias	-1.81079638752
+ataxia	spinocerebellar degenerations	-1.73333333333
+ataxia	tdp-43 proteinopathies	-0.069696969694
+ataxia	urological manifestations	-0.0274891774888
+ataxia	varicose veins	-0.053333333333
+autoimmune diseases	autoimmune diseases of the nervous system	-0.786783841178
+autoimmune diseases	connective tissue diseases	-0.740316507008
+autoimmune diseases	crohn disease	-0.0067450652905
+autoimmune diseases	demyelinating autoimmune diseases, cns	-0.716956479275
+autoimmune diseases	demyelinating diseases	-0.724602669243
+autoimmune diseases	diabetes mellitus	-0.608909414466
+autoimmune diseases	diabetes mellitus, type 1	-0.736340514951
+autoimmune diseases	digestive system diseases	-0.0900025214078
+autoimmune diseases	endocrine system diseases	-0.447280271673
+autoimmune diseases	eye diseases	-0.0130533112257
+autoimmune diseases	gastroenteritis	-0.0965040445302
+autoimmune diseases	gastrointestinal diseases	-0.100420519484
+autoimmune diseases	glucose metabolism disorders	-0.605173427395
+autoimmune diseases	immune system diseases	-1.13399770383
+autoimmune diseases	inflammatory bowel diseases	-0.0949470163893
+autoimmune diseases	intestinal diseases	-0.127822690146
+autoimmune diseases	joint diseases	-0.308313087224
+autoimmune diseases	lupus erythematosus, systemic	-0.630851774206
+autoimmune diseases	metabolic diseases	-0.116893152888
+autoimmune diseases	multiple sclerosis	-0.695896472467
+autoimmune diseases	musculoskeletal diseases	-0.155517727183
+autoimmune diseases	neoplasms by histologic type	-0.00619919479789
+autoimmune diseases	nervous system diseases	-0.0641726262282
+autoimmune diseases	nutritional and metabolic diseases	-0.115750120384
+autoimmune diseases	psoriasis	-0.0445192667436
+autoimmune diseases	rheumatic diseases	-0.31511575431
+autoimmune diseases	skin and connective tissue diseases	-0.447726732138
+autoimmune diseases	skin diseases	-0.0655456725119
+autoimmune diseases	skin diseases, papulosquamous	-0.0445192667436
+autoimmune diseases of the nervous system	celiac disease	-0.0042220162727
+autoimmune diseases of the nervous system	connective tissue diseases	-0.0743216049234
+autoimmune diseases of the nervous system	crohn disease	-0.0162717818407
+autoimmune diseases of the nervous system	demyelinating autoimmune diseases, cns	-1.63324952471
+autoimmune diseases of the nervous system	demyelinating diseases	-1.57507374678
+autoimmune diseases of the nervous system	diabetes mellitus	-0.212607193703
+autoimmune diseases of the nervous system	diabetes mellitus, type 1	-0.352022725044
+autoimmune diseases of the nervous system	gastroenteritis	-0.0619920706422
+autoimmune diseases of the nervous system	glucose metabolism disorders	-0.18873233799
+autoimmune diseases of the nervous system	immune system diseases	-0.404631494453
+autoimmune diseases of the nervous system	inflammatory bowel diseases	-0.0641168551387
+autoimmune diseases of the nervous system	intestinal diseases	-0.0186220542247
+autoimmune diseases of the nervous system	joint diseases	-0.180409401318
+autoimmune diseases of the nervous system	lupus erythematosus, systemic	-0.235486757154
+autoimmune diseases of the nervous system	malabsorption syndromes	-0.0042220162727
+autoimmune diseases of the nervous system	multiple sclerosis	-1.60421663772
+autoimmune diseases of the nervous system	psoriasis	-0.220132761377
+autoimmune diseases of the nervous system	rheumatic diseases	-0.126600937049
+autoimmune diseases of the nervous system	skin diseases, papulosquamous	-0.220132761377
+autoimmune diseases of the nervous system	stomatognathic diseases	-0.0712987083471
+bacterial infections	bacterial infections and mycoses	-1.36305763202
+bacterial infections	glomerulonephritis	-0.0439005439008
+bacterial infections	gram-positive bacterial infections	-1.24970862471
+bacterial infections	leprosy	-0.743589743591
+bacterial infections	mycobacterium infections	-1.24970862471
+bacterial infections	nephritis	-0.0072843822855
+bacterial infections	psoriasis	-0.0131766381774
+bacterial infections	rheumatic diseases	-0.0164123015583
+bacterial infections	skin diseases, papulosquamous	-0.0131766381774
+bacterial infections	stomatognathic diseases	-0.00404250404325
+bacterial infections and mycoses	glomerulonephritis	-0.0274313198004
+bacterial infections and mycoses	gram-positive bacterial infections	-1.15492654742
+bacterial infections and mycoses	leprosy	-0.668119237085
+bacterial infections and mycoses	mycobacterium infections	-1.15492654742
+bacterial infections and mycoses	psoriasis	-0.058425271969
+bacterial infections and mycoses	rheumatic diseases	-0.0169956431663
+bacterial infections and mycoses	skin diseases, papulosquamous	-0.058425271969
+bacterial infections and mycoses	stomatognathic diseases	-0.0247535937172
+basal ganglia diseases	brain diseases	-0.116112469583
+basal ganglia diseases	central nervous system diseases	-0.0564858348394
+basal ganglia diseases	cranial nerve diseases	-0.100699300696
+basal ganglia diseases	dementia	-0.123481116586
+basal ganglia diseases	leukemia, lymphocytic, chronic, b-cell	-5.00044450291e-13
+basal ganglia diseases	movement disorders	-1.68217023526
+basal ganglia diseases	neurodegenerative diseases	-0.286130906108
+basal ganglia diseases	ocular motility disorders	-0.207653383934
+basal ganglia diseases	parkinson disease	-1.59333333333
+basal ganglia diseases	parkinsonian disorders	-1.65257498585
+basal ganglia diseases	proteinuria	-0.0974172719927
+basal ganglia diseases	tauopathies	-0.329166666667
+basal ganglia diseases	urological manifestations	-0.0974172719927
+behcet syndrome	exophthalmos	-0.346153846152
+behcet syndrome	goiter	-0.326923076923
+behcet syndrome	graves disease	-0.346153846152
+behcet syndrome	hyperthyroidism	-0.346153846152
+behcet syndrome	mouth diseases	-1.45980595981
+behcet syndrome	orbital diseases	-0.346153846152
+behcet syndrome	panuveitis	-2.15384615385
+behcet syndrome	psoriasis	-0.342539439554
+behcet syndrome	skin diseases, papulosquamous	-0.342539439554
+behcet syndrome	skin diseases, vascular	-1.83182503771
+behcet syndrome	spinal diseases	-0.07933853586
+behcet syndrome	spondylarthritis	-0.219396195202
+behcet syndrome	spondylarthropathies	-0.219396195202
+behcet syndrome	spondylitis	-0.219396195202
+behcet syndrome	spondylitis, ankylosing	-0.450256410257
+behcet syndrome	stomatognathic diseases	-1.01908523909
+behcet syndrome	thyroid diseases	-0.0606440071552
+behcet syndrome	uveal diseases	-1.86515837104
+behcet syndrome	uveitis	-2.15384615385
+behcet syndrome	uveitis, anterior	-2.15384615385
+behcet syndrome	vasculitis	-2.00073260073
+bile duct diseases	biliary tract diseases	-1.63334279873
+bile duct diseases	celiac disease	-0.0488282326985
+bile duct diseases	cholestasis	-1.82951261423
+bile duct diseases	cholestasis, intrahepatic	-1.82951261423
+bile duct diseases	crohn disease	-0.035652243631
+bile duct diseases	leukemia, b-cell	-0.042694497152
+bile duct diseases	leukemia, lymphocytic, chronic, b-cell	-0.0085086489015
+bile duct diseases	liver cirrhosis	-1.66455278592
+bile duct diseases	liver cirrhosis, biliary	-1.69079528336
+bile duct diseases	liver diseases	-0.688924820269
+bile duct diseases	lymphoma	-0.090310361682
+bile duct diseases	lymphoma, non-hodgkin	-0.0627731975879
+bile duct diseases	malabsorption syndromes	-0.0488282326985
+bile duct diseases	proteinuria	-0.0886328725037
+bile duct diseases	rheumatic diseases	-0.0309519470266
+bile duct diseases	spondylitis, ankylosing	-0.0846461615426
+bile duct diseases	urological manifestations	-0.0886328725037
+biliary tract diseases	celiac disease	-0.0310435435449
+biliary tract diseases	cholestasis	-1.49590336135
+biliary tract diseases	cholestasis, intrahepatic	-1.49590336135
+biliary tract diseases	crohn disease	-0.0705478365685
+biliary tract diseases	digestive system diseases	-0.015872912909
+biliary tract diseases	liver cirrhosis	-1.346875
+biliary tract diseases	liver cirrhosis, biliary	-1.35844547964
+biliary tract diseases	liver diseases	-0.605378441824
+biliary tract diseases	lymphoma	-0.0291666666664
+biliary tract diseases	malabsorption syndromes	-0.0310435435449
+biliary tract diseases	proteinuria	-0.114484126987
+biliary tract diseases	rheumatic diseases	-0.0396314843353
+biliary tract diseases	spondylitis, ankylosing	-0.0323717948738
+biliary tract diseases	urological manifestations	-0.114484126987
+blood coagulation disorders	blood coagulation disorders, inherited	-1.02547619048
+blood coagulation disorders	blood platelet disorders	-0.478263403262
+blood coagulation disorders	hemorrhagic disorders	-0.708014354066
+blood coagulation disorders, inherited	blood platelet disorders	-0.369248784002
+blood coagulation disorders, inherited	hemorrhagic disorders	-0.614718614718
+blood platelet disorders	hemorrhagic disorders	-0.18283691617
+blood protein disorders	immunologic deficiency syndromes	-0.0312965993815
+body weight	nutrition disorders	-1.24140859141
+body weight	obesity	-1.92307692307
+body weight	overnutrition	-1.92307692307
+body weight	overweight	-1.92307692307
+body weight	proteinuria	-0.051485551485
+body weight	urological manifestations	-0.051485551485
+bone diseases	bone diseases, developmental	-1.209375
+bone diseases	bone diseases, metabolic	-0.432383040937
+bone diseases	dwarfism	-0.231730769231
+bone diseases	joint diseases	-0.0549362831376
+bone diseases	limb deformities, congenital	-0.0246407813997
+bone diseases	musculoskeletal abnormalities	-0.229271061697
+bone diseases	musculoskeletal diseases	-0.921567132984
+bone diseases	osteochondrodysplasias	-0.688819758672
+bone diseases	spinal diseases	-0.0570977610025
+bone diseases	spondylitis, ankylosing	-0.0112179487176
+bone diseases, developmental	craniofacial abnormalities	-0.00128676470502
+bone diseases, developmental	dwarfism	-0.521023802018
+bone diseases, developmental	dysostoses	-0.218120421246
+bone diseases, developmental	limb deformities, congenital	-0.258202231122
+bone diseases, developmental	musculoskeletal abnormalities	-0.419680226621
+bone diseases, developmental	musculoskeletal diseases	-0.551148338671
+bone diseases, developmental	osteochondrodysplasias	-1.059380002
+bone diseases, metabolic	coronary artery disease	-0.0375726115444
+bone diseases, metabolic	coronary disease	-0.0469688438442
+bone diseases, metabolic	glomerulonephritis	-9.00168828366e-13
+bone diseases, metabolic	metal metabolism, inborn errors	-0.583333333333
+bone diseases, metabolic	myocardial infarction	-0.145299145299
+bone diseases, metabolic	myocardial ischemia	-0.0215577703951
+bone diseases, metabolic	nutrition disorders	-0.449031127601
+bone diseases, metabolic	osteoporosis	-1.49661246613
+bone diseases, metabolic	proteinuria	-0.0619434765798
+bone diseases, metabolic	renal tubular transport, inborn errors	-0.214646464644
+bone diseases, metabolic	urination disorders	-0.0703326873385
+bone diseases, metabolic	urological manifestations	-0.0619434765798
+bone marrow diseases	hematologic diseases	-0.355365175469
+bone marrow diseases	hemic and lymphatic diseases	-0.100831089136
+bone marrow diseases	leukemia	-0.209535050637
+bone marrow diseases	leukemia, b-cell	-0.015112557066
+bone marrow diseases	leukemia, lymphocytic, chronic, b-cell	-0.0547717208726
+bone marrow diseases	leukemia, lymphoid	-0.0190960451977
+bone marrow diseases	leukemia, myeloid	-0.50829958502
+bone marrow diseases	leukemia, myeloid, acute	-0.22022691615
+bone marrow diseases	lymphoma	-0.0502305833489
+bone marrow diseases	lymphoma, non-hodgkin	-0.0128783123141
+bone marrow diseases	myeloproliferative disorders	-0.639824790137
+bone marrow diseases	pancreatic diseases	-0.00981893676305
+bone marrow diseases	proteinuria	-0.0706159408266
+bone marrow diseases	spondylitis, ankylosing	-0.0227580170287
+bone marrow diseases	urological manifestations	-0.0706159408266
+brain diseases	brain diseases, metabolic	-0.389763036359
+brain diseases	brain diseases, metabolic, inborn	-0.377272787703
+brain diseases	cardiovascular diseases	-0.090149704578
+brain diseases	central nervous system diseases	-1.39945875524
+brain diseases	cerebrovascular disorders	-0.111146609867
+brain diseases	congenital, hereditary, and neonatal diseases and abnormalities	-0.145117815466
+brain diseases	dementia	-0.0224589282239
+brain diseases	genetic diseases, inborn	-0.178145047225
+brain diseases	heredodegenerative disorders, nervous system	-0.210275084193
+brain diseases	metabolic diseases	-0.216202709628
+brain diseases	metabolism, inborn errors	-0.234318249706
+brain diseases	movement disorders	-0.117076828812
+brain diseases	nervous system diseases	-0.773767106241
+brain diseases	neurodegenerative diseases	-0.586574901596
+brain diseases	neurologic manifestations	-0.123338850723
+brain diseases	nutritional and metabolic diseases	-0.214384655209
+brain diseases	vascular diseases	-0.144501068407
+brain diseases, metabolic	brain diseases, metabolic, inborn	-1.46796762406
+brain diseases, metabolic	carbohydrate metabolism, inborn errors	-0.212154287818
+brain diseases, metabolic	central nervous system diseases	-0.287212513325
+brain diseases, metabolic	lysosomal storage diseases	-0.203234627185
+brain diseases, metabolic	lysosomal storage diseases, nervous system	-0.313725490194
+brain diseases, metabolic	metabolism, inborn errors	-0.409821473343
+brain diseases, metabolic, inborn	carbohydrate metabolism, inborn errors	-0.21347375508
+brain diseases, metabolic, inborn	central nervous system diseases	-0.275358954013
+brain diseases, metabolic, inborn	lysosomal storage diseases	-0.205508085057
+brain diseases, metabolic, inborn	lysosomal storage diseases, nervous system	-0.316490864772
+brain diseases, metabolic, inborn	metabolism, inborn errors	-0.40210783655
+breast diseases	breast neoplasms	-1.51193379791
+breast diseases	endocrine gland neoplasms	-0.0384024577555
+breast diseases	genital neoplasms, female	-0.0685197155779
+breast diseases	glioma	-0.090799031474
+breast diseases	neoplasms by site	-0.039319046621
+breast diseases	neoplasms, neuroepithelial	-0.0660173160185
+breast diseases	ovarian neoplasms	-0.079333428287
+breast diseases	pancreatic diseases	-0.081168831169
+breast neoplasms	endocrine gland neoplasms	-0.0369047619065
+breast neoplasms	genital neoplasms, female	-0.0716200466215
+breast neoplasms	glioma	-0.055701754384
+breast neoplasms	neoplasms by site	-0.0251583614855
+breast neoplasms	neoplasms, neuroepithelial	-0.0354166666665
+breast neoplasms	ovarian neoplasms	-0.0840815273492
+breast neoplasms	pancreatic diseases	-0.077083333333
+bronchial diseases	celiac disease	-0.107057057056
+bronchial diseases	crohn disease	-0.00692171044246
+bronchial diseases	diabetes mellitus, type 1	-0.0094162335067
+bronchial diseases	glomerulonephritis	-0.013601532565
+bronchial diseases	hypersensitivity	-1.6714559387
+bronchial diseases	hypersensitivity, immediate	-1.6714559387
+bronchial diseases	lung diseases	-1.14790602019
+bronchial diseases	lung diseases, obstructive	-1.77839506173
+bronchial diseases	lymphoma	-0.0447916666664
+bronchial diseases	malabsorption syndromes	-0.107057057056
+bronchial diseases	otorhinolaryngologic diseases	-0.447569444444
+bronchial diseases	proteinuria	-0.158465608465
+bronchial diseases	respiratory hypersensitivity	-1.85
+bronchial diseases	respiratory tract diseases	-1.20674603175
+bronchial diseases	rheumatic diseases	-0.0516264338303
+bronchial diseases	urological manifestations	-0.158465608465
+carbohydrate metabolism, inborn errors	lysosomal storage diseases	-0.198710761006
+carbohydrate metabolism, inborn errors	lysosomal storage diseases, nervous system	-0.0916214151518
+carbohydrate metabolism, inborn errors	metabolism, inborn errors	-0.0960377663821
+carcinoma	carcinoma, renal cell	-0.698064135566
+carcinoma	demyelinating autoimmune diseases, cns	-0.0140873015867
+carcinoma	digestive system neoplasms	-0.247308046607
+carcinoma	gastrointestinal neoplasms	-0.0487351190474
+carcinoma	glioma	-0.0810909980419
+carcinoma	kidney diseases	-0.0930753968253
+carcinoma	kidney neoplasms	-0.717951127819
+carcinoma	liver diseases	-0.007413575943
+carcinoma	lymphoma	-0.11488095238
+carcinoma	lymphoma, non-hodgkin	-0.0649975024961
+carcinoma	multiple sclerosis	-0.0157505175973
+carcinoma	myocardial infarction	-0.0973781653123
+carcinoma	neoplasms	-0.0772553013081
+carcinoma	neoplasms by histologic type	-0.343948047079
+carcinoma	neoplasms by site	-0.17278359661
+carcinoma	neoplasms, germ cell and embryonal	-0.250992063491
+carcinoma	neoplasms, glandular and epithelial	-1.23345256545
+carcinoma	neoplasms, nerve tissue	-0.248894557822
+carcinoma	neoplasms, neuroepithelial	-0.13988095238
+carcinoma	neoplastic syndromes, hereditary	-0.0727240896358
+carcinoma	neuroectodermal tumors	-0.25453529377
+carcinoma	proteinuria	-0.105357142857
+carcinoma	urogenital neoplasms	-0.278760113794
+carcinoma	urologic diseases	-0.0516303147723
+carcinoma	urologic neoplasms	-0.654851289793
+carcinoma	urological manifestations	-0.105357142857
+carcinoma, renal cell	kidney neoplasms	-1.78786549708
+carcinoma, renal cell	neoplasms, glandular and epithelial	-0.34405591142
+carcinoma, renal cell	proteinuria	-0.140873015874
+carcinoma, renal cell	urogenital neoplasms	-0.0823836798332
+carcinoma, renal cell	urologic neoplasms	-1.26011264721
+carcinoma, renal cell	urological manifestations	-0.140873015874
+cardiomegaly	cardiomyopathies	-1.03390475166
+cardiomegaly	cardiomyopathy, dilated	-1.47749897373
+cardiomegaly	cardiomyopathy, hypertrophic	-0.499736952863
+cardiomegaly	cardiomyopathy, hypertrophic, familial	-0.530927111412
+cardiomegaly	heart diseases	-0.120734743201
+cardiomegaly	muscular disorders, atrophic	-0.0782602813863
+cardiomegaly	muscular dystrophies	-0.0721275252537
+cardiomyopathies	cardiomyopathy, dilated	-1.05596410978
+cardiomyopathies	cardiomyopathy, hypertrophic	-0.705486163737
+cardiomyopathies	cardiomyopathy, hypertrophic, familial	-0.678911564626
+cardiomyopathies	cardiovascular abnormalities	-0.098157148776
+cardiomyopathies	heart defects, congenital	-0.187847138857
+cardiomyopathies	heart diseases	-0.379614483821
+cardiomyopathies	muscular diseases	-0.0297064924131
+cardiomyopathies	muscular disorders, atrophic	-0.0376777983921
+cardiomyopathies	muscular dystrophies	-0.0425853072159
+cardiomyopathy, dilated	cardiomyopathy, hypertrophic	-0.551708771284
+cardiomyopathy, dilated	cardiomyopathy, hypertrophic, familial	-0.585385878489
+cardiomyopathy, dilated	heart diseases	-0.0416033137472
+cardiomyopathy, dilated	muscular disorders, atrophic	-0.0667711598741
+cardiomyopathy, dilated	muscular dystrophies	-0.0576081007132
+cardiomyopathy, hypertrophic	cardiomyopathy, hypertrophic, familial	-1.55846672707
+cardiomyopathy, hypertrophic	muscular disorders, atrophic	-0.0247284162387
+cardiomyopathy, hypertrophic	muscular dystrophies	-0.011724386726
+cardiomyopathy, hypertrophic, familial	muscular disorders, atrophic	-0.0286380286372
+cardiomyopathy, hypertrophic, familial	muscular dystrophies	-0.0150793650803
+cardiovascular abnormalities	cardiovascular diseases	-0.168436049081
+cardiovascular abnormalities	heart defects, congenital	-1.54464955865
+cardiovascular abnormalities	heart diseases	-0.578914355199
+cardiovascular abnormalities	pathologic processes	-0.24118499152
+cardiovascular abnormalities	proteinuria	-0.0484400656813
+cardiovascular abnormalities	urological manifestations	-0.0484400656813
+cardiovascular diseases	central nervous system diseases	-0.0771976063157
+cardiovascular diseases	cerebrovascular disorders	-0.211156659435
+cardiovascular diseases	congenital abnormalities	-0.166749219399
+cardiovascular diseases	congenital, hereditary, and neonatal diseases and abnormalities	-0.0640099211708
+cardiovascular diseases	coronary artery disease	-0.0153275223869
+cardiovascular diseases	coronary disease	-0.0563090958204
+cardiovascular diseases	endocrine system diseases	-0.0309376447875
+cardiovascular diseases	genetic diseases, inborn	-0.00175414804342
+cardiovascular diseases	heart defects, congenital	-0.116383847741
+cardiovascular diseases	heart diseases	-0.98071665014
+cardiovascular diseases	hemic and lymphatic diseases	-0.0449616136071
+cardiovascular diseases	musculoskeletal diseases	-0.0811340067338
+cardiovascular diseases	myocardial ischemia	-0.15894117936
+cardiovascular diseases	neoplasms	-0.0485227559199
+cardiovascular diseases	neoplasms by histologic type	-0.00756265263785
+cardiovascular diseases	neoplasms by site	-0.0229541172163
+cardiovascular diseases	nervous system diseases	-0.0511042796156
+cardiovascular diseases	pathologic processes	-0.100373980925
+cardiovascular diseases	pathological conditions, signs and symptoms	-0.153978535491
+cardiovascular diseases	skin and connective tissue diseases	-0.00018870108285
+cardiovascular diseases	skin diseases	-0.0124153069888
+cardiovascular diseases	vascular diseases	-1.06932500885
+carotid artery diseases	cerebrovascular disorders	-0.927956989246
+carotid artery diseases	death	-0.0453044375616
+carotid artery diseases	death, sudden	-0.0453044375616
+carotid artery diseases	glioma	-0.110416666665
+carotid artery diseases	myocardial infarction	-0.0826007325981
+carotid artery diseases	neoplasms, neuroepithelial	-0.055128205127
+carotid artery diseases	proteinuria	-0.217405582922
+carotid artery diseases	stomatognathic system abnormalities	-0.0031198686336
+carotid artery diseases	urination disorders	-0.0277553763425
+carotid artery diseases	urological manifestations	-0.217405582922
+carotid artery diseases	varicose veins	-0.0523809523805
+celiac disease	cholestasis	-0.0431387608805
+celiac disease	cholestasis, intrahepatic	-0.0431387608805
+celiac disease	colitis	-0.0802810715851
+celiac disease	colitis, ulcerative	-0.0802810715851
+celiac disease	crohn disease	-0.141105894625
+celiac disease	demyelinating autoimmune diseases, cns	-0.114133089132
+celiac disease	diabetes mellitus, type 1	-0.0537099336495
+celiac disease	digestive system diseases	-0.0439128765269
+celiac disease	gastroenteritis	-0.0939443928917
+celiac disease	gastrointestinal diseases	-0.286324786324
+celiac disease	goiter	-0.0411111111115
+celiac disease	hair diseases	-0.0918803418803
+celiac disease	hypersensitivity	-0.0888888888866
+celiac disease	hypersensitivity, immediate	-0.0888888888866
+celiac disease	hypotrichosis	-0.117063492065
+celiac disease	inflammatory bowel diseases	-0.093173166704
+celiac disease	intestinal diseases	-0.393457900942
+celiac disease	joint diseases	-0.0617104165901
+celiac disease	leukemia, myeloid	-0.046717171716
+celiac disease	leukemia, myeloid, acute	-0.052216517333
+celiac disease	liver cirrhosis	-0.156369731801
+celiac disease	liver cirrhosis, biliary	-0.132850241546
+celiac disease	lung diseases, obstructive	-0.111111111111
+celiac disease	malabsorption syndromes	-2.22222222222
+celiac disease	multiple sclerosis	-0.116317245906
+celiac disease	myocardial infarction	-0.0022731405695
+celiac disease	parkinsonian disorders	-0.0071408877874
+celiac disease	proteinuria	-0.30999066293
+celiac disease	respiratory hypersensitivity	-0.125
+celiac disease	rheumatic diseases	-0.0596257821535
+celiac disease	spondylitis, ankylosing	-0.292270531403
+celiac disease	stomatognathic diseases	-0.0338366535561
+celiac disease	urination disorders	-0.158870545073
+celiac disease	urological manifestations	-0.30999066293
+central nervous system diseases	cerebrovascular disorders	-0.0477186038142
+central nervous system diseases	congenital, hereditary, and neonatal diseases and abnormalities	-0.173428600592
+central nervous system diseases	genetic diseases, inborn	-0.208065599408
+central nervous system diseases	heredodegenerative disorders, nervous system	-0.235280102161
+central nervous system diseases	metabolic diseases	-0.263499008928
+central nervous system diseases	metabolism, inborn errors	-0.201024857333
+central nervous system diseases	movement disorders	-0.142826526707
+central nervous system diseases	nervous system diseases	-0.849975046324
+central nervous system diseases	neurodegenerative diseases	-0.667018344272
+central nervous system diseases	neurologic manifestations	-0.147959011493
+central nervous system diseases	nutritional and metabolic diseases	-0.265126957538
+central nervous system diseases	spinal cord diseases	-0.068190558667
+central nervous system diseases	vascular diseases	-0.115133885375
+cerebellar ataxia	cerebellar diseases	-1.76305916306
+cerebellar ataxia	dyskinesias	-1.46666666667
+cerebellar ataxia	heredodegenerative disorders, nervous system	-0.117264957267
+cerebellar ataxia	leukemia, b-cell	-0.0134334584892
+cerebellar ataxia	leukemia, lymphocytic, chronic, b-cell	-0.0444444444447
+cerebellar ataxia	motor neuron disease	-0.113925612553
+cerebellar ataxia	neurodegenerative diseases	-0.0167166618107
+cerebellar ataxia	neurologic manifestations	-0.275517627586
+cerebellar ataxia	ocular motility disorders	-0.0034209428432
+cerebellar ataxia	proteinuria	-0.0274891774888
+cerebellar ataxia	proteostasis deficiencies	-0.0091575091591
+cerebellar ataxia	spinal cord diseases	-1.03074335047
+cerebellar ataxia	spinocerebellar ataxias	-1.81079638752
+cerebellar ataxia	spinocerebellar degenerations	-1.73333333333
+cerebellar ataxia	tdp-43 proteinopathies	-0.069696969694
+cerebellar ataxia	urological manifestations	-0.0274891774888
+cerebellar ataxia	varicose veins	-0.053333333333
+cerebellar diseases	dyskinesias	-1.39370629371
+cerebellar diseases	heredodegenerative disorders, nervous system	-0.135946509631
+cerebellar diseases	leukemia, lymphocytic, chronic, b-cell	-0.0007575757573
+cerebellar diseases	motor neuron disease	-0.080461876833
+cerebellar diseases	neurodegenerative diseases	-0.0311003974001
+cerebellar diseases	neurologic manifestations	-0.249210424001
+cerebellar diseases	proteinuria	-0.0124343741363
+cerebellar diseases	spinal cord diseases	-1.08503048168
+cerebellar diseases	spinocerebellar ataxias	-1.70797849691
+cerebellar diseases	spinocerebellar degenerations	-1.79639249639
+cerebellar diseases	tdp-43 proteinopathies	-0.033228840126
+cerebellar diseases	urological manifestations	-0.0124343741363
+cerebellar diseases	varicose veins	-0.0015437392796
+cerebrovascular disorders	death	-0.0406698564595
+cerebrovascular disorders	death, sudden	-0.0406698564595
+cerebrovascular disorders	death, sudden, cardiac	-0.0215053763441
+cerebrovascular disorders	dementia	-0.128143392188
+cerebrovascular disorders	heart arrest	-0.0215053763441
+cerebrovascular disorders	myocardial infarction	-0.0064102564102
+cerebrovascular disorders	proteinuria	-0.0960187353637
+cerebrovascular disorders	urological manifestations	-0.0960187353637
+cerebrovascular disorders	vascular diseases	-0.601798003298
+charcot-marie-tooth disease	hereditary sensory and motor neuropathy	-0.980728659527
+charcot-marie-tooth disease	nervous system malformations	-0.301464521452
+charcot-marie-tooth disease	peripheral nervous system diseases	-0.704244733777
+charcot-marie-tooth disease	polyneuropathies	-0.766641828117
+charcot-marie-tooth disease	proteinuria	-0.0145180023232
+charcot-marie-tooth disease	urological manifestations	-0.0145180023232
+cholestasis	cholestasis, intrahepatic	-1.92857142857
+cholestasis	leukemia, b-cell	-0.000887021476
+cholestasis	liver cirrhosis	-1.75755494505
+cholestasis	liver cirrhosis, biliary	-1.78994641335
+cholestasis	liver diseases	-0.695186269132
+cholestasis	lymphoma	-0.0972985347984
+cholestasis	lymphoma, non-hodgkin	-0.0733766233771
+cholestasis	malabsorption syndromes	-0.0431387608805
+cholestasis	proteinuria	-0.0595238095245
+cholestasis	rheumatic diseases	-0.0017881495095
+cholestasis	spondylitis, ankylosing	-0.0726190476196
+cholestasis	urological manifestations	-0.0595238095245
+cholestasis, intrahepatic	leukemia, b-cell	-0.000887021476
+cholestasis, intrahepatic	liver cirrhosis	-1.75755494505
+cholestasis, intrahepatic	liver cirrhosis, biliary	-1.78994641335
+cholestasis, intrahepatic	liver diseases	-0.695186269132
+cholestasis, intrahepatic	lymphoma	-0.0972985347984
+cholestasis, intrahepatic	lymphoma, non-hodgkin	-0.0733766233771
+cholestasis, intrahepatic	malabsorption syndromes	-0.0431387608805
+cholestasis, intrahepatic	proteinuria	-0.0595238095245
+cholestasis, intrahepatic	rheumatic diseases	-0.0017881495095
+cholestasis, intrahepatic	spondylitis, ankylosing	-0.0726190476196
+cholestasis, intrahepatic	urological manifestations	-0.0595238095245
+chromosome disorders	craniofacial abnormalities	-0.291666666667
+chromosome disorders	dysostoses	-0.007142857143
+chromosome disorders	glioma	-0.00815602836805
+chromosome disorders	musculoskeletal abnormalities	-0.153973819541
+chromosome disorders	myocardial infarction	-0.0769528920696
+chromosome disorders	proteinuria	-0.0244588744584
+chromosome disorders	urological manifestations	-0.0244588744584
+colitis	colitis, ulcerative	-1.98181818182
+colitis	colonic diseases	-1.23859684526
+colitis	crohn disease	-0.522929337388
+colitis	demyelinating autoimmune diseases, cns	-0.0226233766241
+colitis	digestive system diseases	-0.262227134569
+colitis	gastroenteritis	-1.14618887844
+colitis	gastrointestinal diseases	-0.542751118613
+colitis	inflammatory bowel diseases	-1.16527883881
+colitis	intestinal diseases	-0.683932906644
+colitis	joint diseases	-0.026900022329
+colitis	liver cirrhosis	-0.0027761795146
+colitis	malabsorption syndromes	-0.0802810715851
+colitis	multiple sclerosis	-0.0232840324697
+colitis	proteinuria	-0.0693799158597
+colitis	psoriasis	-0.100151360703
+colitis	skin diseases, papulosquamous	-0.100151360703
+colitis	spondylitis, ankylosing	-0.11528720036
+colitis	stomatognathic diseases	-0.0335060356824
+colitis	urological manifestations	-0.0693799158597
+colitis, ulcerative	colonic diseases	-1.23859684526
+colitis, ulcerative	crohn disease	-0.522929337388
+colitis, ulcerative	demyelinating autoimmune diseases, cns	-0.0226233766241
+colitis, ulcerative	digestive system diseases	-0.262227134569
+colitis, ulcerative	gastroenteritis	-1.14618887844
+colitis, ulcerative	gastrointestinal diseases	-0.542751118613
+colitis, ulcerative	inflammatory bowel diseases	-1.16527883881
+colitis, ulcerative	intestinal diseases	-0.683932906644
+colitis, ulcerative	joint diseases	-0.026900022329
+colitis, ulcerative	liver cirrhosis	-0.0027761795146
+colitis, ulcerative	malabsorption syndromes	-0.0802810715851
+colitis, ulcerative	multiple sclerosis	-0.0232840324697
+colitis, ulcerative	proteinuria	-0.0693799158597
+colitis, ulcerative	psoriasis	-0.100151360703
+colitis, ulcerative	skin diseases, papulosquamous	-0.100151360703
+colitis, ulcerative	spondylitis, ankylosing	-0.11528720036
+colitis, ulcerative	stomatognathic diseases	-0.0335060356824
+colitis, ulcerative	urological manifestations	-0.0693799158597
+collagen diseases	hemostatic disorders	-0.41777777778
+collagen diseases	nephritis	-0.0294584139259
+collagen diseases	osteochondrodysplasias	-0.157750257997
+collagen diseases	osteoporosis	-0.0617948717966
+collagen diseases	skin abnormalities	-0.0254700854706
+collagen diseases	urination disorders	-0.126737804878
+colonic diseases	colorectal neoplasms	-0.69070961718
+colonic diseases	crohn disease	-0.286683236675
+colonic diseases	digestive system diseases	-0.549076722889
+colonic diseases	digestive system neoplasms	-0.504882316272
+colonic diseases	gastroenteritis	-0.793052343526
+colonic diseases	gastrointestinal diseases	-0.876014668211
+colonic diseases	gastrointestinal neoplasms	-0.568035835024
+colonic diseases	inflammatory bowel diseases	-0.805359812086
+colonic diseases	intestinal diseases	-1.03780332437
+colonic diseases	intestinal neoplasms	-0.69070961718
+colonic diseases	neoplasms	-0.00143509060431
+colonic diseases	neoplasms by site	-0.169576136145
+colonic diseases	neoplasms, glandular and epithelial	-0.0770645101392
+colonic diseases	neoplasms, nerve tissue	-0.00557574023011
+colonic diseases	rectal diseases	-0.544989133173
+colorectal neoplasms	digestive system neoplasms	-0.737711065986
+colorectal neoplasms	endocrine gland neoplasms	-0.0660522273435
+colorectal neoplasms	gastrointestinal diseases	-0.097412725149
+colorectal neoplasms	gastrointestinal neoplasms	-0.972744360903
+colorectal neoplasms	genital diseases, female	-0.10989010989
+colorectal neoplasms	genital neoplasms, female	-0.153253609137
+colorectal neoplasms	glioma	-0.043179983858
+colorectal neoplasms	intestinal diseases	-0.206856616577
+colorectal neoplasms	intestinal neoplasms	-1.47619047619
+colorectal neoplasms	neoplasms by site	-0.075592616453
+colorectal neoplasms	neoplasms, glandular and epithelial	-0.0187796878755
+colorectal neoplasms	neoplastic syndromes, hereditary	-0.310850656052
+colorectal neoplasms	ovarian diseases	-0.025425554837
+colorectal neoplasms	ovarian neoplasms	-0.0486635332105
+colorectal neoplasms	pancreatic diseases	-0.018398268397
+colorectal neoplasms	proteinuria	-0.0595238095235
+colorectal neoplasms	rectal diseases	-1.31167013867
+colorectal neoplasms	urological manifestations	-0.0595238095235
+colorectal neoplasms	varicose veins	-0.0219662058356
+congenital abnormalities	congenital, hereditary, and neonatal diseases and abnormalities	-0.509182883484
+congenital abnormalities	genetic diseases, inborn	-0.292606909891
+congenital abnormalities	heart diseases	-0.090234056086
+congenital abnormalities	heredodegenerative disorders, nervous system	-0.0996588042009
+congenital abnormalities	male urogenital diseases	-0.01098518029
+congenital abnormalities	musculoskeletal diseases	-0.166682701883
+congenital abnormalities	nervous system diseases	-0.19276515301
+congenital abnormalities	nervous system malformations	-0.350640899247
+congenital abnormalities	neurodegenerative diseases	-0.0864428200875
+congenital abnormalities	neuromuscular diseases	-0.0799790831736
+congenital abnormalities	peripheral nervous system diseases	-0.0126364380843
+congenital abnormalities	skin and connective tissue diseases	-0.0457587290501
+congenital abnormalities	skin diseases	-0.0640590742896
+congenital, hereditary, and neonatal diseases and abnormalities	genetic diseases, inborn	-1.11759213642
+congenital, hereditary, and neonatal diseases and abnormalities	heredodegenerative disorders, nervous system	-0.156104629263
+congenital, hereditary, and neonatal diseases and abnormalities	metabolic diseases	-0.408494671192
+congenital, hereditary, and neonatal diseases and abnormalities	metabolism, inborn errors	-0.255943489077
+congenital, hereditary, and neonatal diseases and abnormalities	musculoskeletal diseases	-0.121739627419
+congenital, hereditary, and neonatal diseases and abnormalities	nervous system diseases	-0.517182063016
+congenital, hereditary, and neonatal diseases and abnormalities	neurodegenerative diseases	-0.0418315109973
+congenital, hereditary, and neonatal diseases and abnormalities	nutritional and metabolic diseases	-0.407174758908
+congenital, hereditary, and neonatal diseases and abnormalities	skin and connective tissue diseases	-0.055421056585
+connective tissue diseases	demyelinating autoimmune diseases, cns	-0.140855302812
+connective tissue diseases	demyelinating diseases	-0.10268305716
+connective tissue diseases	diabetes mellitus	-0.145262443351
+connective tissue diseases	diabetes mellitus, type 1	-0.21403596789
+connective tissue diseases	glucose metabolism disorders	-0.143055623434
+connective tissue diseases	immune system diseases	-0.453371316343
+connective tissue diseases	joint diseases	-0.412447257384
+connective tissue diseases	lupus erythematosus, systemic	-0.973370819072
+connective tissue diseases	multiple sclerosis	-0.138976035597
+connective tissue diseases	musculoskeletal diseases	-0.208801415671
+connective tissue diseases	psoriasis	-0.0317804668788
+connective tissue diseases	rheumatic diseases	-0.494952478504
+connective tissue diseases	skin and connective tissue diseases	-0.686319192143
+connective tissue diseases	skin diseases	-0.109601321383
+connective tissue diseases	skin diseases, papulosquamous	-0.0317804668788
+coronary artery disease	coronary disease	-2.09315862352
+coronary artery disease	endocrine gland neoplasms	-0.0473380540245
+coronary artery disease	esophageal diseases	-0.0137829912004
+coronary artery disease	glioma	-0.19825268817
+coronary artery disease	heart diseases	-0.428009084471
+coronary artery disease	hyperinsulinism	-0.0188498541637
+coronary artery disease	immunoproliferative disorders	-0.00349382990205
+coronary artery disease	insulin resistance	-0.0188498541637
+coronary artery disease	leukemia, b-cell	-0.111242884253
+coronary artery disease	leukemia, lymphocytic, chronic, b-cell	-0.136839644694
+coronary artery disease	leukemia, lymphoid	-0.0519898015742
+coronary artery disease	limb deformities, congenital	-0.0700509337866
+coronary artery disease	lung diseases	-0.0815894735885
+coronary artery disease	lung neoplasms	-0.340684660962
+coronary artery disease	lymphoma	-0.156586021505
+coronary artery disease	lymphoma, non-hodgkin	-0.105378188459
+coronary artery disease	myocardial infarction	-0.759587187006
+coronary artery disease	myocardial ischemia	-1.89992092618
+coronary artery disease	neoplasms, germ cell and embryonal	-0.0644675476076
+coronary artery disease	neoplasms, glandular and epithelial	-0.0445541862983
+coronary artery disease	neoplasms, nerve tissue	-0.0822662936141
+coronary artery disease	neoplasms, neuroepithelial	-0.166813294231
+coronary artery disease	neuroectodermal tumors	-0.0754008060096
+coronary artery disease	pancreatic diseases	-0.1334799609
+coronary artery disease	proteinuria	-0.282181259601
+coronary artery disease	respiratory tract diseases	-0.0272640753335
+coronary artery disease	respiratory tract neoplasms	-0.340684660962
+coronary artery disease	spastic paraplegia, hereditary	-0.0136938646429
+coronary artery disease	thoracic neoplasms	-0.309282099936
+coronary artery disease	urination disorders	-0.179414035688
+coronary artery disease	urological manifestations	-0.282181259601
+coronary artery disease	vascular diseases	-0.379598026789
+coronary disease	endocrine gland neoplasms	-0.00040950041
+coronary disease	glioma	-0.121621621622
+coronary disease	heart diseases	-0.506792456421
+coronary disease	hyperinsulinism	-0.0758340758361
+coronary disease	insulin resistance	-0.0758340758361
+coronary disease	leukemia, b-cell	-0.0322970028847
+coronary disease	leukemia, lymphocytic, chronic, b-cell	-0.0626472626482
+coronary disease	leukemia, lymphoid	-0.00349864427735
+coronary disease	limb deformities, congenital	-0.0135389148532
+coronary disease	lung diseases	-0.0437655965828
+coronary disease	lung neoplasms	-0.248894348895
+coronary disease	lymphoma	-0.0680014030441
+coronary disease	lymphoma, non-hodgkin	-0.0137633781712
+coronary disease	metabolic syndrome x	-0.0060754031337
+coronary disease	myocardial infarction	-0.644698544699
+coronary disease	myocardial ischemia	-2.07452859837
+coronary disease	neoplasms, germ cell and embryonal	-0.0078575766757
+coronary disease	neoplasms, nerve tissue	-0.0238522813262
+coronary disease	neoplasms, neuroepithelial	-0.103862058782
+coronary disease	neuroectodermal tumors	-0.0177715709617
+coronary disease	pancreatic diseases	-0.0738074139724
+coronary disease	proteinuria	-0.202854114619
+coronary disease	respiratory tract neoplasms	-0.248894348895
+coronary disease	thoracic neoplasms	-0.219428639166
+coronary disease	urination disorders	-0.112777281999
+coronary disease	urological manifestations	-0.202854114619
+coronary disease	vascular diseases	-0.469637233157
+cranial nerve diseases	mitochondrial diseases	-0.481750368981
+cranial nerve diseases	movement disorders	-0.0497943233222
+cranial nerve diseases	muscular diseases	-0.165104654794
+cranial nerve diseases	ocular motility disorders	-1.33101604278
+cranial nerve diseases	proteinuria	-0.0578889195914
+cranial nerve diseases	signs and symptoms	-0.135261723926
+cranial nerve diseases	tauopathies	-0.251604278076
+cranial nerve diseases	urological manifestations	-0.0578889195914
+craniofacial abnormalities	dysostoses	-0.499355971895
+craniofacial abnormalities	glioma	-0.148684210525
+craniofacial abnormalities	leukemia, myeloid	-0.0934397163113
+craniofacial abnormalities	limb deformities, congenital	-0.134411239965
+craniofacial abnormalities	musculoskeletal abnormalities	-0.99078115117
+craniofacial abnormalities	neoplasms, neuroepithelial	-0.0604166666665
+craniofacial abnormalities	stomatognathic diseases	-0.226772551772
+craniofacial abnormalities	stomatognathic system abnormalities	-0.365476190474
+crohn disease	demyelinating autoimmune diseases, cns	-0.0634238052437
+crohn disease	demyelinating diseases	-0.0124802183879
+crohn disease	diabetes mellitus, type 1	-0.0618243174971
+crohn disease	digestive system diseases	-0.500302606213
+crohn disease	gastroenteritis	-1.41662315211
+crohn disease	gastrointestinal diseases	-0.779282532803
+crohn disease	genital neoplasms, male	-0.0570364214261
+crohn disease	glucose metabolism disorders	-0.0332597209272
+crohn disease	inflammatory bowel diseases	-1.43816082771
+crohn disease	intestinal diseases	-0.939328021797
+crohn disease	liver cirrhosis	-0.0344051148986
+crohn disease	liver cirrhosis, biliary	-0.004058579041
+crohn disease	malabsorption syndromes	-0.141105894625
+crohn disease	mouth diseases	-0.0227823078801
+crohn disease	multiple sclerosis	-0.0633511212195
+crohn disease	prostatic diseases	-0.014443091735
+crohn disease	prostatic neoplasms	-0.014443091735
+crohn disease	proteinuria	-0.0931219500887
+crohn disease	spondylitis, ankylosing	-0.0973754171604
+crohn disease	stomatognathic diseases	-0.0625273160477
+crohn disease	urogenital neoplasms	-0.00259961975528
+crohn disease	urological manifestations	-0.0931219500887
+death	death, sudden	-2.26315789474
+death	death, sudden, cardiac	-2.03353973168
+death	glioma	-0.0204678362565
+death	goiter	-0.038721804512
+death	gout	-0.0258097165992
+death	heart arrest	-2.03353973168
+death	heart diseases	-0.167603672112
+death	leukemia, myeloid	-0.047104061523
+death	leukemia, myeloid, acute	-0.017175346466
+death	lung neoplasms	-0.131578947369
+death	myocardial infarction	-0.0859058704455
+death	pancreatic diseases	-0.214912280703
+death	pathologic processes	-0.869154248574
+death	pathological conditions, signs and symptoms	-0.123024836508
+death	proteinuria	-0.187856003646
+death	respiratory tract neoplasms	-0.131578947369
+death	thoracic neoplasms	-0.157860998652
+death	thyroid diseases	-0.0070891514481
+death	urination disorders	-0.0521146616559
+death	urological manifestations	-0.187856003646
+death, sudden	death, sudden, cardiac	-2.03353973168
+death, sudden	glioma	-0.0204678362565
+death, sudden	goiter	-0.038721804512
+death, sudden	gout	-0.0258097165992
+death, sudden	heart arrest	-2.03353973168
+death, sudden	heart diseases	-0.167603672112
+death, sudden	leukemia, myeloid	-0.047104061523
+death, sudden	leukemia, myeloid, acute	-0.017175346466
+death, sudden	lung neoplasms	-0.131578947369
+death, sudden	myocardial infarction	-0.0859058704455
+death, sudden	pancreatic diseases	-0.214912280703
+death, sudden	pathologic processes	-0.869154248574
+death, sudden	pathological conditions, signs and symptoms	-0.123024836508
+death, sudden	proteinuria	-0.187856003646
+death, sudden	respiratory tract neoplasms	-0.131578947369
+death, sudden	thoracic neoplasms	-0.157860998652
+death, sudden	thyroid diseases	-0.0070891514481
+death, sudden	urination disorders	-0.0521146616559
+death, sudden	urological manifestations	-0.187856003646
+death, sudden, cardiac	glioma	-0.0729166666655
+death, sudden, cardiac	goiter	-0.06182795699
+death, sudden, cardiac	gout	-0.114468864466
+death, sudden, cardiac	heart arrest	-2.33333333333
+death, sudden, cardiac	heart diseases	-0.113893092933
+death, sudden, cardiac	leukemia, lymphocytic, chronic, b-cell	-1.50013335087e-12
+death, sudden, cardiac	leukemia, myeloid	-0.028985507243
+death, sudden, cardiac	leukemia, myeloid, acute	-0.038358727615
+death, sudden, cardiac	lung neoplasms	-0.166666666666
+death, sudden, cardiac	myocardial infarction	-0.161172161173
+death, sudden, cardiac	neoplasms, neuroepithelial	-0.032051282051
+death, sudden, cardiac	pancreatic diseases	-0.121794871794
+death, sudden, cardiac	pathologic processes	-0.642536919833
+death, sudden, cardiac	pathological conditions, anatomical	-0.0668682795692
+death, sudden, cardiac	pathological conditions, signs and symptoms	-0.0400973163269
+death, sudden, cardiac	proteinuria	-0.220853858785
+death, sudden, cardiac	respiratory tract neoplasms	-0.166666666666
+death, sudden, cardiac	thoracic neoplasms	-0.198809523812
+death, sudden, cardiac	urination disorders	-0.0890456989241
+death, sudden, cardiac	urological manifestations	-0.220853858785
+death, sudden, cardiac	varicose veins	-0.0095238095229
+dementia	movement disorders	-0.0892175200698
+dementia	myocardial infarction	-0.0313020313006
+dementia	neurodegenerative diseases	-0.169433130344
+dementia	parkinson disease	-0.197619047617
+dementia	parkinsonian disorders	-0.194474254572
+dementia	proteostasis deficiencies	-0.240692640695
+dementia	tauopathies	-1.3393939394
+dementia	tdp-43 proteinopathies	-0.198862828714
+demyelinating autoimmune diseases, cns	demyelinating diseases	-1.57245373876
+demyelinating autoimmune diseases, cns	diabetes mellitus	-0.301242169922
+demyelinating autoimmune diseases, cns	diabetes mellitus, type 1	-0.465881166329
+demyelinating autoimmune diseases, cns	endocrine system diseases	-0.00969263908629
+demyelinating autoimmune diseases, cns	gastroenteritis	-0.117152127245
+demyelinating autoimmune diseases, cns	gastrointestinal diseases	-0.0233635753492
+demyelinating autoimmune diseases, cns	glomerulonephritis	-0.0443001443004
+demyelinating autoimmune diseases, cns	glucose metabolism disorders	-0.270408163264
+demyelinating autoimmune diseases, cns	immune system diseases	-0.361242756282
+demyelinating autoimmune diseases, cns	immunoproliferative disorders	-0.0101997274822
+demyelinating autoimmune diseases, cns	inflammatory bowel diseases	-0.119343292873
+demyelinating autoimmune diseases, cns	intestinal diseases	-0.0725594154937
+demyelinating autoimmune diseases, cns	joint diseases	-0.282583710575
+demyelinating autoimmune diseases, cns	lupus erythematosus, systemic	-0.33249589491
+demyelinating autoimmune diseases, cns	lymphoproliferative disorders	-0.0174698296909
+demyelinating autoimmune diseases, cns	malabsorption syndromes	-0.114133089132
+demyelinating autoimmune diseases, cns	multiple sclerosis	-1.84166778378
+demyelinating autoimmune diseases, cns	neoplasms, glandular and epithelial	-0.0234466014496
+demyelinating autoimmune diseases, cns	psoriasis	-0.34312169312
+demyelinating autoimmune diseases, cns	rheumatic diseases	-0.221813352854
+demyelinating autoimmune diseases, cns	skin diseases, papulosquamous	-0.34312169312
+demyelinating autoimmune diseases, cns	spondylitis, ankylosing	-0.0861207897792
+demyelinating autoimmune diseases, cns	stomatognathic diseases	-0.191334391802
+demyelinating diseases	diabetes mellitus	-0.224590471516
+demyelinating diseases	diabetes mellitus, type 1	-0.336165960715
+demyelinating diseases	gastroenteritis	-0.0736548237083
+demyelinating diseases	glucose metabolism disorders	-0.205399095285
+demyelinating diseases	immune system diseases	-0.388305985656
+demyelinating diseases	inflammatory bowel diseases	-0.0708152967324
+demyelinating diseases	intestinal diseases	-0.0333773013934
+demyelinating diseases	joint diseases	-0.175120723868
+demyelinating diseases	lupus erythematosus, systemic	-0.220477756464
+demyelinating diseases	multiple sclerosis	-1.54373591898
+demyelinating diseases	nervous system diseases	-0.0193834287225
+demyelinating diseases	neurodegenerative diseases	-0.0292510449303
+demyelinating diseases	psoriasis	-0.202017291906
+demyelinating diseases	rheumatic diseases	-0.123547895639
+demyelinating diseases	skin diseases, papulosquamous	-0.202017291906
+demyelinating diseases	stomatognathic diseases	-0.0838671737536
+diabetes mellitus	diabetes mellitus, type 1	-1.16448358928
+diabetes mellitus	diabetes mellitus, type 2	-1.08652437749
+diabetes mellitus	digestive system diseases	-0.0237042585199
+diabetes mellitus	endocrine system diseases	-1.12842935915
+diabetes mellitus	female urogenital diseases	-0.0156762077498
+diabetes mellitus	female urogenital diseases and pregnancy complications	-0.0147556304532
+diabetes mellitus	gastroenteritis	-0.0594237352867
+diabetes mellitus	gastrointestinal diseases	-0.0332853678868
+diabetes mellitus	glucose metabolism disorders	-1.6191932122
+diabetes mellitus	immune system diseases	-0.352305926994
+diabetes mellitus	inflammatory bowel diseases	-0.0600074615336
+diabetes mellitus	intestinal diseases	-0.0594632476037
+diabetes mellitus	joint diseases	-0.0814836537621
+diabetes mellitus	lung diseases	-0.0733652964258
+diabetes mellitus	lupus erythematosus, systemic	-0.143645882169
+diabetes mellitus	metabolic diseases	-0.454706490548
+diabetes mellitus	multiple sclerosis	-0.299389687072
+diabetes mellitus	nutritional and metabolic diseases	-0.439971205453
+diabetes mellitus	psoriasis	-0.0154320987654
+diabetes mellitus	respiratory tract diseases	-0.0630027530428
+diabetes mellitus	rheumatic diseases	-0.0858916602508
+diabetes mellitus	skin and connective tissue diseases	-0.0412865181129
+diabetes mellitus	skin diseases	-0.0147526423298
+diabetes mellitus	skin diseases, papulosquamous	-0.0154320987654
+diabetes mellitus	vascular diseases	-0.0446975802806
+diabetes mellitus, type 1	diabetes mellitus, type 2	-0.0161545771297
+diabetes mellitus, type 1	endocrine system diseases	-0.547879306007
+diabetes mellitus, type 1	gastroenteritis	-0.0784294125486
+diabetes mellitus, type 1	glomerulonephritis	-0.0634417344168
+diabetes mellitus, type 1	glucose metabolism disorders	-1.11260947359
+diabetes mellitus, type 1	immune system diseases	-0.346589581989
+diabetes mellitus, type 1	inflammatory bowel diseases	-0.0795693595967
+diabetes mellitus, type 1	intestinal diseases	-0.0241180443274
+diabetes mellitus, type 1	joint diseases	-0.198251511565
+diabetes mellitus, type 1	lung diseases	-0.113559565587
+diabetes mellitus, type 1	lung diseases, obstructive	-0.000806289052
+diabetes mellitus, type 1	lupus erythematosus, systemic	-0.385954119413
+diabetes mellitus, type 1	malabsorption syndromes	-0.0537099336495
+diabetes mellitus, type 1	metabolic diseases	-0.0512107705774
+diabetes mellitus, type 1	multiple sclerosis	-0.468159717588
+diabetes mellitus, type 1	nutritional and metabolic diseases	-0.0429940451436
+diabetes mellitus, type 1	psoriasis	-0.292450449015
+diabetes mellitus, type 1	respiratory tract diseases	-0.0788012677875
+diabetes mellitus, type 1	rheumatic diseases	-0.247709474932
+diabetes mellitus, type 1	skin diseases, papulosquamous	-0.292450449015
+diabetes mellitus, type 1	stomatognathic diseases	-0.121785035702
+diabetes mellitus, type 1	thyroid diseases	-0.0155052264791
+diabetes mellitus, type 2	endocrine system diseases	-0.506468012992
+diabetes mellitus, type 2	glucose metabolism disorders	-1.02271944923
+diabetes mellitus, type 2	metabolic diseases	-0.00114851319931
+diabetes mellitus, type 2	pancreatic diseases	-0.0416666666668
+diabetes mellitus, type 2	proteinuria	-0.187707641197
+diabetes mellitus, type 2	urination disorders	-0.0198863636365
+diabetes mellitus, type 2	urological manifestations	-0.187707641197
+diabetes mellitus, type 2	varicose veins	-0.039130434781
+digestive system diseases	digestive system neoplasms	-0.407883174713
+digestive system diseases	endocrine system diseases	-0.115569818307
+digestive system diseases	female urogenital diseases	-0.0173061455137
+digestive system diseases	female urogenital diseases and pregnancy complications	-0.0277940662234
+digestive system diseases	gastroenteritis	-0.828124497033
+digestive system diseases	gastrointestinal diseases	-1.22828249227
+digestive system diseases	gastrointestinal neoplasms	-0.176871700528
+digestive system diseases	glucose metabolism disorders	-0.0380278278992
+digestive system diseases	immune system diseases	-0.106016364601
+digestive system diseases	inflammatory bowel diseases	-0.805012987521
+digestive system diseases	intestinal diseases	-1.12988322826
+digestive system diseases	liver diseases	-0.32497088809
+digestive system diseases	malabsorption syndromes	-0.0439128765269
+digestive system diseases	metabolic diseases	-0.131015354518
+digestive system diseases	neoplasms	-0.302022871659
+digestive system diseases	neoplasms by histologic type	-0.0842338001721
+digestive system diseases	neoplasms by site	-0.392843385947
+digestive system diseases	nutritional and metabolic diseases	-0.126072085575
+digestive system diseases	skin and connective tissue diseases	-0.113870725046
+digestive system diseases	skin diseases	-0.100994090307
+digestive system diseases	vascular diseases	-0.0008170998742
+digestive system neoplasms	endocrine gland neoplasms	-0.364695986543
+digestive system neoplasms	esophageal diseases	-0.333480760725
+digestive system neoplasms	gastrointestinal diseases	-0.474237227978
+digestive system neoplasms	gastrointestinal neoplasms	-1.1697263368
+digestive system neoplasms	genital diseases, female	-0.0129235302012
+digestive system neoplasms	genital neoplasms, female	-0.00178171111252
+digestive system neoplasms	head and neck neoplasms	-0.264314632738
+digestive system neoplasms	intestinal diseases	-0.267701548639
+digestive system neoplasms	intestinal neoplasms	-0.737711065986
+digestive system neoplasms	lung diseases	-0.0047022783491
+digestive system neoplasms	neoplasms	-0.233972778297
+digestive system neoplasms	neoplasms by histologic type	-0.0664116517161
+digestive system neoplasms	neoplasms by site	-0.614474094224
+digestive system neoplasms	neoplasms, germ cell and embryonal	-0.135651629073
+digestive system neoplasms	neoplasms, glandular and epithelial	-0.322455197594
+digestive system neoplasms	neoplasms, nerve tissue	-0.118077932928
+digestive system neoplasms	neoplastic syndromes, hereditary	-0.0404216766266
+digestive system neoplasms	neuroectodermal tumors	-0.102140277275
+digestive system neoplasms	pancreatic diseases	-0.332780480613
+digestive system neoplasms	rectal diseases	-0.582976257848
+digestive system neoplasms	urogenital neoplasms	-0.0751876822465
+disorders of sex development	gonadal disorders	-0.435820475731
+disorders of sex development	urogenital abnormalities	-0.858630952382
+dna repair-deficiency disorders	immunologic deficiency syndromes	-0.0623601205567
+dna repair-deficiency disorders	infant, newborn, diseases	-0.0068808251999
+dna repair-deficiency disorders	leukemia, lymphocytic, chronic, b-cell	-0.0045022570691
+dna repair-deficiency disorders	neoplastic syndromes, hereditary	-0.0422634271096
+dna repair-deficiency disorders	nevi and melanomas	-0.0236676016847
+dwarfism	goiter	-0.102564102563
+dwarfism	hypothalamic diseases	-0.0396389324951
+dwarfism	limb deformities, congenital	-0.205195681511
+dwarfism	proteinuria	-0.115659340659
+dwarfism	thyroid diseases	-0.637087912088
+dwarfism	urological manifestations	-0.115659340659
+dyskinesias	heredodegenerative disorders, nervous system	-0.204487179488
+dyskinesias	leukemia, lymphocytic, chronic, b-cell	-0.0166666666667
+dyskinesias	motor neuron disease	-0.114572722127
+dyskinesias	movement disorders	-0.143682262753
+dyskinesias	neurodegenerative diseases	-0.13147404336
+dyskinesias	neurologic manifestations	-0.536800678353
+dyskinesias	proteinuria	-0.0471347861172
+dyskinesias	signs and symptoms	-0.225767473407
+dyskinesias	spinal cord diseases	-0.906931768795
+dyskinesias	spinocerebellar ataxias	-1.4140084801
+dyskinesias	spinocerebellar degenerations	-1.36666666667
+dyskinesias	tdp-43 proteinopathies	-0.047619047619
+dyskinesias	urological manifestations	-0.0471347861172
+dyskinesias	varicose veins	-0.0641025641041
+dysostoses	limb deformities, congenital	-0.58477443609
+dysostoses	musculoskeletal abnormalities	-0.611029370939
+dysostoses	myocardial infarction	-0.0155138978646
+dysostoses	stomatognathic system abnormalities	-0.0428571428551
+dysostoses	varicose veins	-0.108362369339
+dyssomnias	glomerulonephritis	-0.089220799749
+dyssomnias	sleep disorders	-1.84210526316
+ectodermal dysplasia	glioma	-0.028571428571
+ectodermal dysplasia	keratosis	-0.0018315018315
+ectodermal dysplasia	nevi and melanomas	-0.0367647058818
+ectodermal dysplasia	proteinuria	-0.0401785714285
+ectodermal dysplasia	skin abnormalities	-0.578776645043
+ectodermal dysplasia	skin diseases, genetic	-0.0512820512834
+ectodermal dysplasia	spastic paraplegia, hereditary	-0.0184210526302
+ectodermal dysplasia	urological manifestations	-0.0401785714285
+endocrine gland neoplasms	endocrine system diseases	-0.139536986796
+endocrine gland neoplasms	gastrointestinal neoplasms	-0.0863821138225
+endocrine gland neoplasms	genital diseases, female	-0.632183908046
+endocrine gland neoplasms	genital diseases, male	-0.0171568627476
+endocrine gland neoplasms	genital neoplasms, female	-0.673243423245
+endocrine gland neoplasms	genital neoplasms, male	-0.185507246377
+endocrine gland neoplasms	glioma	-0.0833333333313
+endocrine gland neoplasms	gonadal disorders	-0.562256049962
+endocrine gland neoplasms	head and neck neoplasms	-0.152934662238
+endocrine gland neoplasms	intestinal neoplasms	-0.0660522273435
+endocrine gland neoplasms	lung neoplasms	-0.0797101449277
+endocrine gland neoplasms	myocardial infarction	-0.0689102564105
+endocrine gland neoplasms	myocardial ischemia	-0.0463466930587
+endocrine gland neoplasms	neoplasms	-0.0299772420003
+endocrine gland neoplasms	neoplasms by site	-0.336418889116
+endocrine gland neoplasms	neoplasms, germ cell and embryonal	-0.145226537217
+endocrine gland neoplasms	neoplasms, glandular and epithelial	-0.0826110219381
+endocrine gland neoplasms	neoplasms, nerve tissue	-0.080680272109
+endocrine gland neoplasms	neoplasms, neuroepithelial	-0.0566666666648
+endocrine gland neoplasms	neoplastic syndromes, hereditary	-0.112745098038
+endocrine gland neoplasms	neuroectodermal tumors	-0.0832247792747
+endocrine gland neoplasms	ovarian diseases	-0.666500166501
+endocrine gland neoplasms	ovarian neoplasms	-0.715686274513
+endocrine gland neoplasms	pancreatic diseases	-0.676666666667
+endocrine gland neoplasms	rectal diseases	-0.0788093364817
+endocrine gland neoplasms	respiratory tract neoplasms	-0.0797101449277
+endocrine gland neoplasms	thoracic neoplasms	-0.0477699530533
+endocrine gland neoplasms	thyroid diseases	-0.0197530864177
+endocrine gland neoplasms	urogenital neoplasms	-0.397238772504
+endocrine system diseases	female urogenital diseases	-0.31647239971
+endocrine system diseases	female urogenital diseases and pregnancy complications	-0.310274880855
+endocrine system diseases	gastrointestinal diseases	-0.0472599147462
+endocrine system diseases	glucose metabolism disorders	-1.0114561464
+endocrine system diseases	gonadal disorders	-0.26392991304
+endocrine system diseases	immune system diseases	-0.324973486158
+endocrine system diseases	intestinal diseases	-0.0419968872526
+endocrine system diseases	male urogenital diseases	-0.249868196718
+endocrine system diseases	metabolic diseases	-0.400899332404
+endocrine system diseases	multiple sclerosis	-0.00508491458766
+endocrine system diseases	musculoskeletal diseases	-0.100957974712
+endocrine system diseases	neoplasms	-0.196976263032
+endocrine system diseases	neoplasms by histologic type	-0.0524467186323
+endocrine system diseases	neoplasms by site	-0.283593094774
+endocrine system diseases	nutritional and metabolic diseases	-0.396775277599
+endocrine system diseases	skin and connective tissue diseases	-0.087983421896
+endocrine system diseases	skin diseases	-0.0280896910208
+endocrine system diseases	urogenital neoplasms	-0.0855184955713
+endocrine system diseases	vascular diseases	-0.0275749544118
+epilepsy	proteinuria	-0.0986080586085
+epilepsy	urological manifestations	-0.0986080586085
+esophageal diseases	gastrointestinal diseases	-0.0167935363239
+esophageal diseases	gastrointestinal neoplasms	-0.520833333334
+esophageal diseases	glioma	-0.0487804878019
+esophageal diseases	head and neck neoplasms	-1.01234866828
+esophageal diseases	leukemia, b-cell	-0.0588235294099
+esophageal diseases	leukemia, lymphocytic, chronic, b-cell	-0.107692307692
+esophageal diseases	leukemia, myeloid, acute	-0.0013884068014
+esophageal diseases	motor neuron disease	-0.0202346041059
+esophageal diseases	myocardial infarction	-0.0987525987528
+esophageal diseases	pathological conditions, anatomical	-0.0437499999999
+esophageal diseases	proteinuria	-0.0714285714284
+esophageal diseases	urological manifestations	-0.0714285714284
+exophthalmos	glomerulonephritis	-0.19492693686
+exophthalmos	goiter	-2.2049071618
+exophthalmos	graves disease	-2.46153846154
+exophthalmos	hyperthyroidism	-2.46153846154
+exophthalmos	hypotrichosis	-0.00986975987125
+exophthalmos	lymphoma	-0.26398995149
+exophthalmos	lymphoma, non-hodgkin	-0.282717282715
+exophthalmos	mouth diseases	-0.0190575190588
+exophthalmos	nephritis	-0.0418081918058
+exophthalmos	orbital diseases	-2.46153846154
+exophthalmos	panuveitis	-0.346153846152
+exophthalmos	proteinuria	-0.0614570614588
+exophthalmos	skin diseases, vascular	-0.25233785822
+exophthalmos	spondylitis, ankylosing	-0.124102564102
+exophthalmos	thyroid diseases	-1.26100178891
+exophthalmos	urological manifestations	-0.0614570614588
+exophthalmos	uveal diseases	-0.252337858223
+exophthalmos	uveitis	-0.346153846152
+exophthalmos	uveitis, anterior	-0.346153846152
+exophthalmos	vasculitis	-0.297435897435
+eye diseases	eye diseases, hereditary	-0.885686815078
+eye diseases	genetic diseases, inborn	-0.00277658121721
+eye diseases	macular degeneration	-0.155108225108
+eye diseases	neurologic manifestations	-0.00833980122365
+eye diseases	retinal degeneration	-0.832737242972
+eye diseases	retinal diseases	-1.01192957923
+eye diseases	retinal dystrophies	-0.339717939717
+eye diseases	retinitis pigmentosa	-0.322849943134
+eye diseases	signs and symptoms	-0.045086679028
+eye diseases	vascular diseases	-0.00949476063475
+eye diseases, hereditary	retinal degeneration	-0.670948878705
+eye diseases, hereditary	retinal diseases	-0.806712754941
+eye diseases, hereditary	retinal dystrophies	-0.941387004116
+eye diseases, hereditary	retinitis pigmentosa	-0.968474616858
+female urogenital diseases	female urogenital diseases and pregnancy complications	-1.53052556502
+female urogenital diseases	genital diseases, female	-0.0731450617809
+female urogenital diseases	gonadal disorders	-0.199134589926
+female urogenital diseases	kidney diseases	-1.17528044004
+female urogenital diseases	male urogenital diseases	-1.20296523105
+female urogenital diseases	metabolic diseases	-0.0303134883401
+female urogenital diseases	neoplasms	-0.159064291286
+female urogenital diseases	neoplasms by histologic type	-0.0844895147467
+female urogenital diseases	neoplasms by site	-0.328086646846
+female urogenital diseases	neoplasms, glandular and epithelial	-0.0908578560518
+female urogenital diseases	nutritional and metabolic diseases	-0.0265028519985
+female urogenital diseases	proteinuria	-0.0919049949899
+female urogenital diseases	urogenital neoplasms	-0.401446521615
+female urogenital diseases	urologic diseases	-1.35305330523
+female urogenital diseases	urologic neoplasms	-0.073809201198
+female urogenital diseases	urological manifestations	-0.0919049949899
+female urogenital diseases and pregnancy complications	genital diseases, female	-0.0628065216835
+female urogenital diseases and pregnancy complications	gonadal disorders	-0.179855107985
+female urogenital diseases and pregnancy complications	kidney diseases	-1.14302356155
+female urogenital diseases and pregnancy complications	male urogenital diseases	-1.1847859006
+female urogenital diseases and pregnancy complications	metabolic diseases	-0.0890052853833
+female urogenital diseases and pregnancy complications	metabolism, inborn errors	-0.0283298948561
+female urogenital diseases and pregnancy complications	neoplasms	-0.157322606688
+female urogenital diseases and pregnancy complications	neoplasms by histologic type	-0.0820559393268
+female urogenital diseases and pregnancy complications	neoplasms by site	-0.322618011847
+female urogenital diseases and pregnancy complications	neoplasms, glandular and epithelial	-0.0843728141244
+female urogenital diseases and pregnancy complications	nutritional and metabolic diseases	-0.0843917509268
+female urogenital diseases and pregnancy complications	pathological conditions, signs and symptoms	-0.0193566002548
+female urogenital diseases and pregnancy complications	proteinuria	-0.0755228326811
+female urogenital diseases and pregnancy complications	urogenital neoplasms	-0.3928078626
+female urogenital diseases and pregnancy complications	urologic diseases	-1.32217427325
+female urogenital diseases and pregnancy complications	urologic neoplasms	-0.0535341442146
+female urogenital diseases and pregnancy complications	urological manifestations	-0.0755228326811
+gastroenteritis	gastrointestinal diseases	-1.16073356623
+gastroenteritis	glucose metabolism disorders	-0.0694714514385
+gastroenteritis	inflammatory bowel diseases	-1.82590789807
+gastroenteritis	intestinal diseases	-1.29739067571
+gastroenteritis	joint diseases	-0.0293846187226
+gastroenteritis	malabsorption syndromes	-0.0939443928917
+gastroenteritis	multiple sclerosis	-0.115545844793
+gastroenteritis	psoriasis	-0.00977327924012
+gastroenteritis	rheumatic diseases	-0.0116775838577
+gastroenteritis	skin diseases, papulosquamous	-0.00977327924012
+gastroenteritis	stomatognathic diseases	-0.0443665131274
+gastrointestinal diseases	gastrointestinal neoplasms	-0.465052856499
+gastrointestinal diseases	glucose metabolism disorders	-0.0519618519602
+gastrointestinal diseases	immune system diseases	-0.082705656805
+gastrointestinal diseases	inflammatory bowel diseases	-1.13442334778
+gastrointestinal diseases	intestinal diseases	-1.47452481695
+gastrointestinal diseases	intestinal neoplasms	-0.097412725149
+gastrointestinal diseases	malabsorption syndromes	-0.286324786324
+gastrointestinal diseases	metabolic diseases	-0.027857341504
+gastrointestinal diseases	multiple sclerosis	-0.0195088587387
+gastrointestinal diseases	neoplasms	-0.264415607714
+gastrointestinal diseases	neoplasms by histologic type	-0.0928706091642
+gastrointestinal diseases	neoplasms by site	-0.37991469411
+gastrointestinal diseases	neoplasms, glandular and epithelial	-0.00836615984045
+gastrointestinal diseases	nutritional and metabolic diseases	-0.0230317870311
+gastrointestinal diseases	rectal diseases	-0.0262364752727
+gastrointestinal diseases	skin and connective tissue diseases	-0.0522378814868
+gastrointestinal diseases	skin diseases	-0.0536191860974
+gastrointestinal diseases	urogenital neoplasms	-0.0287334206972
+gastrointestinal diseases	vascular diseases	-0.0273585909878
+gastrointestinal neoplasms	genital diseases, female	-0.0231481481491
+gastrointestinal neoplasms	genital neoplasms, female	-0.0250523286244
+gastrointestinal neoplasms	glioma	-0.0004681647933
+gastrointestinal neoplasms	head and neck neoplasms	-0.39231197152
+gastrointestinal neoplasms	intestinal diseases	-0.243609669385
+gastrointestinal neoplasms	intestinal neoplasms	-0.972744360903
+gastrointestinal neoplasms	leukemia, myeloid	-0.017857142856
+gastrointestinal neoplasms	neoplasms	-0.0569709293907
+gastrointestinal neoplasms	neoplasms by site	-0.371395452236
+gastrointestinal neoplasms	neoplasms, germ cell and embryonal	-0.115591397849
+gastrointestinal neoplasms	neoplasms, glandular and epithelial	-0.121586177215
+gastrointestinal neoplasms	neoplasms, nerve tissue	-0.0963414291338
+gastrointestinal neoplasms	neoplastic syndromes, hereditary	-0.125924898262
+gastrointestinal neoplasms	neuroectodermal tumors	-0.0764720781941
+gastrointestinal neoplasms	rectal diseases	-0.815755820023
+gastrointestinal neoplasms	urogenital neoplasms	-0.0383551720699
+genetic diseases, inborn	heredodegenerative disorders, nervous system	-0.26491176125
+genetic diseases, inborn	metabolic diseases	-0.463052392305
+genetic diseases, inborn	metabolism, inborn errors	-0.38387465448
+genetic diseases, inborn	musculoskeletal diseases	-0.106917156919
+genetic diseases, inborn	nervous system diseases	-0.524191038929
+genetic diseases, inborn	neurodegenerative diseases	-0.125527300137
+genetic diseases, inborn	neurologic manifestations	-0.0570650800107
+genetic diseases, inborn	nutritional and metabolic diseases	-0.4602322178
+genetic diseases, inborn	skin and connective tissue diseases	-0.0985431975954
+genetic diseases, inborn	skin diseases	-0.00944437035655
+genetic diseases, x-linked	heredodegenerative disorders, nervous system	-0.501589054835
+genetic diseases, x-linked	intellectual disability	-0.946012228494
+genetic diseases, x-linked	mental retardation, x-linked	-1.19098871355
+genetic diseases, x-linked	neurobehavioral manifestations	-0.922848445805
+genetic diseases, x-linked	neurologic manifestations	-0.607496872312
+genital diseases, female	genital neoplasms, female	-1.3376757651
+genital diseases, female	genital neoplasms, male	-0.00931677018431
+genital diseases, female	glioma	-0.0974842767282
+genital diseases, female	gonadal disorders	-0.74156385556
+genital diseases, female	intestinal neoplasms	-0.10989010989
+genital diseases, female	myocardial infarction	-0.011512297228
+genital diseases, female	neoplasms, germ cell and embryonal	-0.0606060606052
+genital diseases, female	neoplasms, nerve tissue	-0.00656262505145
+genital diseases, female	neoplasms, neuroepithelial	-0.116666666667
+genital diseases, female	neoplastic syndromes, hereditary	-0.110224089634
+genital diseases, female	neuroectodermal tumors	-0.0189267709142
+genital diseases, female	ovarian diseases	-1.42142266336
+genital diseases, female	ovarian neoplasms	-1.04476507584
+genital diseases, female	pancreatic diseases	-0.0166666666677
+genital diseases, female	urogenital neoplasms	-0.351467775614
+genital diseases, male	genital neoplasms, male	-1.64440716998
+genital diseases, male	gonadal disorders	-0.238160658383
+genital diseases, male	male urogenital diseases	-0.686193858721
+genital diseases, male	neoplasms	-0.221062083968
+genital diseases, male	neoplasms by site	-0.567104685074
+genital diseases, male	prostatic diseases	-1.50898931322
+genital diseases, male	prostatic neoplasms	-1.50898931322
+genital diseases, male	urogenital neoplasms	-1.11453431569
+genital neoplasms, female	glioma	-0.199016100179
+genital neoplasms, female	gonadal disorders	-0.410115087476
+genital neoplasms, female	intestinal neoplasms	-0.153253609137
+genital neoplasms, female	leukemia, lymphocytic, chronic, b-cell	-0.0578173858664
+genital neoplasms, female	myocardial infarction	-0.0705128205131
+genital neoplasms, female	neoplasms, germ cell and embryonal	-0.0993589743585
+genital neoplasms, female	neoplasms, nerve tissue	-0.0409366823638
+genital neoplasms, female	neoplasms, neuroepithelial	-0.22358974359
+genital neoplasms, female	neoplastic syndromes, hereditary	-0.234766214178
+genital neoplasms, female	neuroectodermal tumors	-0.0554278860155
+genital neoplasms, female	nevi and melanomas	-0.0709706959725
+genital neoplasms, female	ovarian diseases	-1.09615384615
+genital neoplasms, female	ovarian neoplasms	-1.35428285805
+genital neoplasms, female	pancreatic diseases	-0.0702564102565
+genital neoplasms, female	rectal diseases	-0.0368834617561
+genital neoplasms, female	urogenital neoplasms	-0.309354065845
+genital neoplasms, male	gonadal disorders	-0.167726666302
+genital neoplasms, male	male urogenital diseases	-0.474839551496
+genital neoplasms, male	neoplasms	-0.247027228904
+genital neoplasms, male	neoplasms by site	-0.635332967529
+genital neoplasms, male	neoplasms, germ cell and embryonal	-0.083647742242
+genital neoplasms, male	neoplasms, nerve tissue	-0.0138711343035
+genital neoplasms, male	neuroectodermal tumors	-0.021640775354
+genital neoplasms, male	prostatic diseases	-1.84603688068
+genital neoplasms, male	prostatic neoplasms	-1.84603688068
+genital neoplasms, male	urogenital neoplasms	-1.3179561372
+glioma	gout	-0.135897435896
+glioma	heart arrest	-0.0729166666655
+glioma	intestinal neoplasms	-0.043179983858
+glioma	leukemia, b-cell	-0.088235294119
+glioma	leukemia, lymphocytic, chronic, b-cell	-0.133333333333
+glioma	leukemia, myeloid	-0.115023474178
+glioma	leukemia, myeloid, acute	-0.103875968991
+glioma	limb deformities, congenital	-0.135964912279
+glioma	lung neoplasms	-0.314285714285
+glioma	lymphoma	-0.0523373983714
+glioma	lymphoma, non-hodgkin	-0.0372960372951
+glioma	motor neuron disease	-0.067204301074
+glioma	mouth diseases	-0.0691056910556
+glioma	musculoskeletal abnormalities	-0.0215394038359
+glioma	myeloproliferative disorders	-0.0628654970741
+glioma	myocardial infarction	-0.189743589743
+glioma	myocardial ischemia	-0.0945736434092
+glioma	neoplasms, germ cell and embryonal	-0.831521739127
+glioma	neoplasms, glandular and epithelial	-0.480814076743
+glioma	neoplasms, nerve tissue	-0.867346938774
+glioma	neoplasms, neuroepithelial	-1.59959349593
+glioma	neoplastic syndromes, hereditary	-0.004901960783
+glioma	neuroectodermal tumors	-0.903590425531
+glioma	ovarian diseases	-0.148479427548
+glioma	ovarian neoplasms	-0.264705882353
+glioma	pancreatic diseases	-0.0589430894294
+glioma	parkinson disease	-0.0028368794331
+glioma	pathological conditions, anatomical	-0.00284090909
+glioma	proteinuria	-0.3133640553
+glioma	purine-pyrimidine metabolism, inborn errors	-0.03409090909
+glioma	rectal diseases	-0.098118279568
+glioma	respiratory tract neoplasms	-0.314285714285
+glioma	spondylitis, ankylosing	-0.0574712643662
+glioma	stomatognathic diseases	-0.0510510510513
+glioma	stomatognathic system abnormalities	-0.260368663592
+glioma	tdp-43 proteinopathies	-0.090476190475
+glioma	thoracic neoplasms	-0.272297297298
+glioma	urination disorders	-0.103219696969
+glioma	urological manifestations	-0.3133640553
+glioma	varicose veins	-0.0027027027019
+glomerulonephritis	goiter	-0.295751633988
+glomerulonephritis	graves disease	-0.19492693686
+glomerulonephritis	hyperinsulinism	-0.0054390054405
+glomerulonephritis	hypersensitivity	-0.0412698412709
+glomerulonephritis	hypersensitivity, immediate	-0.0412698412709
+glomerulonephritis	hyperthyroidism	-0.19492693686
+glomerulonephritis	insulin resistance	-0.0054390054405
+glomerulonephritis	kidney diseases	-0.132330246915
+glomerulonephritis	leprosy	-0.0299145299127
+glomerulonephritis	liver cirrhosis	-0.0466269841265
+glomerulonephritis	liver cirrhosis, biliary	-0.0488394014388
+glomerulonephritis	lung diseases	-0.0379367340122
+glomerulonephritis	lung diseases, obstructive	-0.0116959064328
+glomerulonephritis	lung neoplasms	-0.111111111111
+glomerulonephritis	lymphoma	-0.12996031746
+glomerulonephritis	lymphoma, non-hodgkin	-0.0563131313132
+glomerulonephritis	multiple sclerosis	-0.0463101782424
+glomerulonephritis	myocardial infarction	-0.0969120485246
+glomerulonephritis	nephritis	-2.1154040404
+glomerulonephritis	orbital diseases	-0.19492693686
+glomerulonephritis	otorhinolaryngologic diseases	-0.260347222222
+glomerulonephritis	proteinuria	-0.137400793651
+glomerulonephritis	respiratory hypersensitivity	-0.0436507936478
+glomerulonephritis	respiratory tract neoplasms	-0.111111111111
+glomerulonephritis	rheumatic diseases	-0.0838775160833
+glomerulonephritis	sleep disorders	-0.089220799749
+glomerulonephritis	stomatognathic diseases	-0.111657111657
+glomerulonephritis	thoracic neoplasms	-0.0656432748548
+glomerulonephritis	thyroid diseases	-0.197222222223
+glomerulonephritis	urination disorders	-0.187295751632
+glomerulonephritis	urologic diseases	-0.0256196045681
+glomerulonephritis	urological manifestations	-0.137400793651
+glucose metabolism disorders	hyperinsulinism	-0.290673008583
+glucose metabolism disorders	immune system diseases	-0.361728242532
+glucose metabolism disorders	inflammatory bowel diseases	-0.0699479791922
+glucose metabolism disorders	insulin resistance	-0.290673008583
+glucose metabolism disorders	intestinal diseases	-0.0768320169354
+glucose metabolism disorders	joint diseases	-0.0430607566459
+glucose metabolism disorders	lung diseases	-0.0972697976468
+glucose metabolism disorders	lupus erythematosus, systemic	-0.115619047619
+glucose metabolism disorders	metabolic diseases	-0.556311122454
+glucose metabolism disorders	multiple sclerosis	-0.268051454365
+glucose metabolism disorders	nutritional and metabolic diseases	-0.540329369253
+glucose metabolism disorders	respiratory tract diseases	-0.0875482625476
+glucose metabolism disorders	rheumatic diseases	-0.0682043004088
+glucose metabolism disorders	skin and connective tissue diseases	-0.0607478084872
+glucose metabolism disorders	skin diseases	-0.0286908788948
+glucose metabolism disorders	vascular diseases	-0.0266297455728
+goiter	graves disease	-2.2049071618
+goiter	heart arrest	-0.06182795699
+goiter	hyperthyroidism	-2.2049071618
+goiter	hypotrichosis	-0.0809523809513
+goiter	liver cirrhosis	-0.0374999999991
+goiter	liver cirrhosis, biliary	-0.0409698996653
+goiter	lymphoma	-0.379166666666
+goiter	lymphoma, non-hodgkin	-0.395933014355
+goiter	malabsorption syndromes	-0.0411111111115
+goiter	malformations of cortical development	-0.0277777777786
+goiter	mouth diseases	-0.166666666667
+goiter	myeloproliferative disorders	-0.11842105263
+goiter	nephritis	-0.133971291867
+goiter	orbital diseases	-2.2049071618
+goiter	otorhinolaryngologic diseases	-0.0156249999984
+goiter	panuveitis	-0.326923076923
+goiter	proteinuria	-0.154761904762
+goiter	skin diseases, vascular	-0.247326203209
+goiter	spondylitis, ankylosing	-0.261904761905
+goiter	stomatognathic diseases	-0.129143294237
+goiter	thyroid diseases	-1.54565217391
+goiter	urination disorders	-0.03125
+goiter	urological manifestations	-0.154761904762
+goiter	uveal diseases	-0.277629233513
+goiter	uveitis	-0.326923076923
+goiter	uveitis, anterior	-0.326923076923
+goiter	varicose veins	-0.105555555556
+goiter	vasculitis	-0.284408602148
+gonadal disorders	male urogenital diseases	-0.0304789448323
+gonadal disorders	neoplasms by site	-0.0792327169112
+gonadal disorders	neoplasms, germ cell and embryonal	-0.0296496445669
+gonadal disorders	ovarian diseases	-0.751184937165
+gonadal disorders	ovarian neoplasms	-0.36849392973
+gonadal disorders	urogenital abnormalities	-0.59782632646
+gonadal disorders	urogenital neoplasms	-0.360359461701
+gout	heart arrest	-0.114468864466
+gout	joint diseases	-0.301977054319
+gout	leukemia, b-cell	-0.028054298641
+gout	leukemia, lymphocytic, chronic, b-cell	-0.116849816849
+gout	myocardial infarction	-0.0384615384612
+gout	neoplasms, neuroepithelial	-0.0507623007622
+gout	proteinuria	-0.32214082214
+gout	purine-pyrimidine metabolism, inborn errors	-2.15285145889
+gout	rheumatic diseases	-0.594089526292
+gout	stomatognathic system abnormalities	-0.107855107853
+gout	urination disorders	-0.1237566313
+gout	urological manifestations	-0.32214082214
+gram-positive bacterial infections	leprosy	-0.963536463537
+gram-positive bacterial infections	mycobacterium infections	-1.45454545455
+gram-positive bacterial infections	rheumatic diseases	-0.00274876828525
+gram-positive bacterial infections	spondylitis, ankylosing	-0.0900178253129
+graves disease	hyperthyroidism	-2.46153846154
+graves disease	hypotrichosis	-0.00986975987125
+graves disease	lymphoma	-0.26398995149
+graves disease	lymphoma, non-hodgkin	-0.282717282715
+graves disease	mouth diseases	-0.0190575190588
+graves disease	nephritis	-0.0418081918058
+graves disease	orbital diseases	-2.46153846154
+graves disease	panuveitis	-0.346153846152
+graves disease	proteinuria	-0.0614570614588
+graves disease	skin diseases, vascular	-0.25233785822
+graves disease	spondylitis, ankylosing	-0.124102564102
+graves disease	thyroid diseases	-1.26100178891
+graves disease	urological manifestations	-0.0614570614588
+graves disease	uveal diseases	-0.252337858223
+graves disease	uveitis	-0.346153846152
+graves disease	uveitis, anterior	-0.346153846152
+graves disease	vasculitis	-0.297435897435
+hair diseases	hypotrichosis	-1.58928571429
+hair diseases	malabsorption syndromes	-0.0918803418803
+hair diseases	proteinuria	-0.0401785714285
+hair diseases	urological manifestations	-0.0401785714285
+head and neck neoplasms	lymphoma	-0.0254136400315
+head and neck neoplasms	neoplasms by site	-0.0498279869292
+head and neck neoplasms	otorhinolaryngologic diseases	-0.0702358742004
+head and neck neoplasms	stomatognathic diseases	-0.241130416133
+head and neck neoplasms	thyroid diseases	-0.112087912086
+heart arrest	heart diseases	-0.113893092933
+heart arrest	leukemia, lymphocytic, chronic, b-cell	-1.50013335087e-12
+heart arrest	leukemia, myeloid	-0.028985507243
+heart arrest	leukemia, myeloid, acute	-0.038358727615
+heart arrest	lung neoplasms	-0.166666666666
+heart arrest	myocardial infarction	-0.161172161173
+heart arrest	neoplasms, neuroepithelial	-0.032051282051
+heart arrest	pancreatic diseases	-0.121794871794
+heart arrest	pathologic processes	-0.642536919833
+heart arrest	pathological conditions, anatomical	-0.0668682795692
+heart arrest	pathological conditions, signs and symptoms	-0.0400973163269
+heart arrest	proteinuria	-0.220853858785
+heart arrest	respiratory tract neoplasms	-0.166666666666
+heart arrest	thoracic neoplasms	-0.198809523812
+heart arrest	urination disorders	-0.0890456989241
+heart arrest	urological manifestations	-0.220853858785
+heart arrest	varicose veins	-0.0095238095229
+heart defects, congenital	heart diseases	-0.615697908016
+heart defects, congenital	myocardial infarction	-0.0045720211176
+heart defects, congenital	pathologic processes	-0.334212489346
+heart defects, congenital	proteinuria	-0.0803275156241
+heart defects, congenital	urological manifestations	-0.0803275156241
+heart diseases	myocardial infarction	-0.177202006242
+heart diseases	myocardial ischemia	-0.649492377371
+heart diseases	pathologic processes	-0.46852804132
+heart diseases	pathological conditions, signs and symptoms	-0.326807869579
+heart diseases	respiratory tract diseases	-0.0278982444896
+heart diseases	vascular diseases	-0.330141678921
+hematologic diseases	hemic and lymphatic diseases	-0.967086417393
+hematologic diseases	hemorrhagic disorders	-0.336682228111
+hematologic diseases	vascular diseases	-0.133344554764
+hemic and lymphatic diseases	hemorrhagic disorders	-0.0365801791981
+hemic and lymphatic diseases	immune system diseases	-0.337873820826
+hemic and lymphatic diseases	immunoproliferative disorders	-0.479019070136
+hemic and lymphatic diseases	leukemia	-0.40144933818
+hemic and lymphatic diseases	leukemia, lymphoid	-0.293569635414
+hemic and lymphatic diseases	lymphatic diseases	-0.619598532268
+hemic and lymphatic diseases	lymphoproliferative disorders	-0.496471667534
+hemic and lymphatic diseases	neoplasms	-0.248781501163
+hemic and lymphatic diseases	neoplasms by histologic type	-0.399965586418
+hemic and lymphatic diseases	vascular diseases	-0.135953122175
+hemorrhagic disorders	hemostatic disorders	-0.484242424242
+hemorrhagic disorders	vascular diseases	-0.0336378108262
+hereditary sensory and motor neuropathy	heredodegenerative disorders, nervous system	-0.47128879892
+hereditary sensory and motor neuropathy	nervous system malformations	-1.01983744755
+hereditary sensory and motor neuropathy	neurodegenerative diseases	-0.343135763468
+hereditary sensory and motor neuropathy	neuromuscular diseases	-0.586171781357
+hereditary sensory and motor neuropathy	peripheral nervous system diseases	-1.4788914992
+hereditary sensory and motor neuropathy	polyneuropathies	-1.5634604225
+hereditary sensory and motor neuropathy	proteinuria	-0.0565684315672
+hereditary sensory and motor neuropathy	spastic paraplegia, hereditary	-1.04423076923
+hereditary sensory and motor neuropathy	urological manifestations	-0.0565684315672
+heredodegenerative disorders, nervous system	intellectual disability	-0.517809507687
+heredodegenerative disorders, nervous system	mental retardation, x-linked	-0.533073245061
+heredodegenerative disorders, nervous system	nervous system diseases	-0.412141285887
+heredodegenerative disorders, nervous system	nervous system malformations	-0.462989989228
+heredodegenerative disorders, nervous system	neurobehavioral manifestations	-0.519848488381
+heredodegenerative disorders, nervous system	neurodegenerative diseases	-0.996410995176
+heredodegenerative disorders, nervous system	neurologic manifestations	-0.745463510849
+heredodegenerative disorders, nervous system	neuromuscular diseases	-0.587717688897
+heredodegenerative disorders, nervous system	peripheral nervous system diseases	-0.600211800656
+heredodegenerative disorders, nervous system	polyneuropathies	-0.532753060635
+heredodegenerative disorders, nervous system	spastic paraplegia, hereditary	-0.0597197376289
+heredodegenerative disorders, nervous system	spinal cord diseases	-0.303509600413
+heredodegenerative disorders, nervous system	spinocerebellar ataxias	-0.125018889931
+heredodegenerative disorders, nervous system	spinocerebellar degenerations	-0.163931623931
+hyperinsulinism	insulin resistance	-2.38461538461
+hyperinsulinism	liver cirrhosis	-0.0148076923066
+hyperinsulinism	macular degeneration	-0.0007492507474
+hyperinsulinism	metabolic syndrome x	-1.54587912088
+hyperinsulinism	myocardial ischemia	-0.0303595965862
+hyperinsulinism	proteinuria	-0.213736263736
+hyperinsulinism	urination disorders	-0.169986263737
+hyperinsulinism	urological manifestations	-0.213736263736
+hypersensitivity	hypersensitivity, immediate	-1.95555555555
+hypersensitivity	immune system diseases	-0.0152001175726
+hypersensitivity	lung diseases	-1.0670592292
+hypersensitivity	lung diseases, obstructive	-1.64056847545
+hypersensitivity	lymphoma	-0.0004227053135
+hypersensitivity	malabsorption syndromes	-0.0888888888866
+hypersensitivity	otorhinolaryngologic diseases	-0.159798881675
+hypersensitivity	proteinuria	-0.0915792305611
+hypersensitivity	respiratory hypersensitivity	-1.80130718954
+hypersensitivity	respiratory tract diseases	-1.01062946807
+hypersensitivity	rheumatic diseases	-0.0077647399694
+hypersensitivity	urological manifestations	-0.0915792305611
+hypersensitivity, immediate	immune system diseases	-0.0152001175726
+hypersensitivity, immediate	lung diseases	-1.0670592292
+hypersensitivity, immediate	lung diseases, obstructive	-1.64056847545
+hypersensitivity, immediate	lymphoma	-0.0004227053135
+hypersensitivity, immediate	malabsorption syndromes	-0.0888888888866
+hypersensitivity, immediate	otorhinolaryngologic diseases	-0.159798881675
+hypersensitivity, immediate	proteinuria	-0.0915792305611
+hypersensitivity, immediate	respiratory hypersensitivity	-1.80130718954
+hypersensitivity, immediate	respiratory tract diseases	-1.01062946807
+hypersensitivity, immediate	rheumatic diseases	-0.0077647399694
+hypersensitivity, immediate	urological manifestations	-0.0915792305611
+hyperthyroidism	hypotrichosis	-0.00986975987125
+hyperthyroidism	lymphoma	-0.26398995149
+hyperthyroidism	lymphoma, non-hodgkin	-0.282717282715
+hyperthyroidism	mouth diseases	-0.0190575190588
+hyperthyroidism	nephritis	-0.0418081918058
+hyperthyroidism	orbital diseases	-2.46153846154
+hyperthyroidism	panuveitis	-0.346153846152
+hyperthyroidism	proteinuria	-0.0614570614588
+hyperthyroidism	skin diseases, vascular	-0.25233785822
+hyperthyroidism	spondylitis, ankylosing	-0.124102564102
+hyperthyroidism	thyroid diseases	-1.26100178891
+hyperthyroidism	urological manifestations	-0.0614570614588
+hyperthyroidism	uveal diseases	-0.252337858223
+hyperthyroidism	uveitis	-0.346153846152
+hyperthyroidism	uveitis, anterior	-0.346153846152
+hyperthyroidism	vasculitis	-0.297435897435
+hypopigmentation	pigmentation disorders	-0.840909090909
+hypothalamic diseases	proteinuria	-0.0849420849442
+hypothalamic diseases	urological manifestations	-0.0849420849442
+hypotrichosis	liver cirrhosis	-0.0004699248123
+hypotrichosis	malabsorption syndromes	-0.117063492065
+hypotrichosis	myocardial infarction	-0.0169922669949
+hypotrichosis	orbital diseases	-0.00986975987125
+hypotrichosis	proteinuria	-0.0357142857163
+hypotrichosis	urological manifestations	-0.0357142857163
+immune system diseases	immunoproliferative disorders	-0.304643976898
+immune system diseases	intestinal diseases	-0.0854248841653
+immune system diseases	joint diseases	-0.0861280984237
+immune system diseases	leukemia	-0.191391021946
+immune system diseases	leukemia, lymphoid	-0.134981742857
+immune system diseases	lung diseases	-0.0849213376035
+immune system diseases	lupus erythematosus, systemic	-0.278213653306
+immune system diseases	lymphatic diseases	-0.293271284857
+immune system diseases	lymphoproliferative disorders	-0.317574257425
+immune system diseases	metabolic diseases	-0.16424963386
+immune system diseases	multiple sclerosis	-0.343961304623
+immune system diseases	musculoskeletal diseases	-0.107203334783
+immune system diseases	neoplasms	-0.219877332164
+immune system diseases	neoplasms by histologic type	-0.300339714011
+immune system diseases	nervous system diseases	-0.111781783469
+immune system diseases	nutritional and metabolic diseases	-0.167206796806
+immune system diseases	respiratory tract diseases	-0.119700949687
+immune system diseases	rheumatic diseases	-0.0771727303612
+immune system diseases	skin and connective tissue diseases	-0.405726751352
+immune system diseases	skin diseases	-0.0870285885629
+immunologic deficiency syndromes	infant, newborn, diseases	-0.499999999999
+immunologic deficiency syndromes	proteinuria	-0.0781830462681
+immunologic deficiency syndromes	urological manifestations	-0.0781830462681
+immunoproliferative disorders	leukemia	-0.920911956783
+immunoproliferative disorders	leukemia, b-cell	-0.406952216727
+immunoproliferative disorders	leukemia, lymphocytic, chronic, b-cell	-0.411064189189
+immunoproliferative disorders	leukemia, lymphoid	-1.26138117284
+immunoproliferative disorders	leukemia, myeloid	-0.00187499999905
+immunoproliferative disorders	liver cirrhosis	-0.00104166666623
+immunoproliferative disorders	lymphatic diseases	-1.28182051947
+immunoproliferative disorders	lymphoma	-0.642708333333
+immunoproliferative disorders	lymphoma, non-hodgkin	-0.486333140728
+immunoproliferative disorders	lymphoproliferative disorders	-1.44194502731
+immunoproliferative disorders	multiple sclerosis	-0.00395668642851
+immunoproliferative disorders	neoplasms	-0.190376103151
+immunoproliferative disorders	neoplasms by histologic type	-0.539311149157
+immunoproliferative disorders	precursor cell lymphoblastic leukemia-lymphoma	-0.702267156863
+infant, newborn, diseases	keratosis	-0.28000774778
+infant, newborn, diseases	pancreatic diseases	-0.0335880531402
+infant, newborn, diseases	skin abnormalities	-0.0117196633142
+inflammatory bowel diseases	intestinal diseases	-1.31014053686
+inflammatory bowel diseases	joint diseases	-0.03023856263
+inflammatory bowel diseases	malabsorption syndromes	-0.093173166704
+inflammatory bowel diseases	multiple sclerosis	-0.117863426593
+inflammatory bowel diseases	psoriasis	-0.0109679067517
+inflammatory bowel diseases	rheumatic diseases	-0.011400789605
+inflammatory bowel diseases	skin diseases, papulosquamous	-0.0109679067517
+inflammatory bowel diseases	stomatognathic diseases	-0.0544806280081
+insulin resistance	liver cirrhosis	-0.0148076923066
+insulin resistance	macular degeneration	-0.0007492507474
+insulin resistance	metabolic syndrome x	-1.54587912088
+insulin resistance	myocardial ischemia	-0.0303595965862
+insulin resistance	proteinuria	-0.213736263736
+insulin resistance	urination disorders	-0.169986263737
+insulin resistance	urological manifestations	-0.213736263736
+intellectual disability	mental retardation, x-linked	-1.36820823084
+intellectual disability	neurobehavioral manifestations	-1.73137418721
+intellectual disability	neurologic manifestations	-1.09265833291
+intellectual disability	pathological conditions, signs and symptoms	-0.0940429396696
+intellectual disability	signs and symptoms	-0.307676518884
+intestinal diseases	intestinal neoplasms	-0.206856616577
+intestinal diseases	malabsorption syndromes	-0.393457900942
+intestinal diseases	metabolic diseases	-0.0172483537683
+intestinal diseases	multiple sclerosis	-0.0693413387899
+intestinal diseases	neoplasms	-0.146615982506
+intestinal diseases	neoplasms by histologic type	-0.05173755287
+intestinal diseases	neoplasms by site	-0.249619627879
+intestinal diseases	neoplasms, glandular and epithelial	-0.0068699426353
+intestinal diseases	nutritional and metabolic diseases	-0.0129188908478
+intestinal diseases	rectal diseases	-0.120588444134
+intestinal diseases	skin and connective tissue diseases	-0.039685418329
+intestinal diseases	skin diseases	-0.0515848940699
+intestinal diseases	vascular diseases	-0.0207078643517
+intestinal neoplasms	neoplasms by site	-0.075592616453
+intestinal neoplasms	neoplasms, glandular and epithelial	-0.0187796878755
+intestinal neoplasms	neoplastic syndromes, hereditary	-0.310850656052
+intestinal neoplasms	ovarian diseases	-0.025425554837
+intestinal neoplasms	ovarian neoplasms	-0.0486635332105
+intestinal neoplasms	pancreatic diseases	-0.018398268397
+intestinal neoplasms	proteinuria	-0.0595238095235
+intestinal neoplasms	rectal diseases	-1.31167013867
+intestinal neoplasms	urological manifestations	-0.0595238095235
+intestinal neoplasms	varicose veins	-0.0219662058356
+joint diseases	liver cirrhosis	-0.0350943222314
+joint diseases	lung diseases	-0.0450834967616
+joint diseases	lupus erythematosus, systemic	-0.155046303908
+joint diseases	malabsorption syndromes	-0.0617104165901
+joint diseases	multiple sclerosis	-0.284019297229
+joint diseases	musculoskeletal diseases	-0.470000325921
+joint diseases	proteinuria	-0.0116082365976
+joint diseases	psoriasis	-0.282585859869
+joint diseases	purine-pyrimidine metabolism, inborn errors	-0.175366422386
+joint diseases	respiratory tract diseases	-0.0188139983816
+joint diseases	rheumatic diseases	-1.64746011461
+joint diseases	skin and connective tissue diseases	-0.0553844861795
+joint diseases	skin diseases, papulosquamous	-0.282585859869
+joint diseases	spinal diseases	-0.344766745445
+joint diseases	spondylarthritis	-0.418036887208
+joint diseases	spondylarthropathies	-0.418036887208
+joint diseases	spondylitis	-0.418036887208
+joint diseases	spondylitis, ankylosing	-0.521120229984
+joint diseases	stomatognathic diseases	-0.155178312315
+joint diseases	urological manifestations	-0.0116082365976
+keratosis	proteinuria	-0.090476190476
+keratosis	skin abnormalities	-0.155975807139
+keratosis	urological manifestations	-0.090476190476
+kidney diseases	kidney neoplasms	-0.0609586720865
+kidney diseases	male urogenital diseases	-0.982894235504
+kidney diseases	neoplasms by site	-0.0110329861114
+kidney diseases	neoplasms, glandular and epithelial	-0.0812234103841
+kidney diseases	nephritis	-0.120934495557
+kidney diseases	renal tubular transport, inborn errors	-0.269678277183
+kidney diseases	urogenital neoplasms	-0.0388740535726
+kidney diseases	urologic diseases	-1.4872300856
+kidney diseases	urologic neoplasms	-0.0883864567335
+kidney neoplasms	neoplasms, connective and soft tissue	-0.0101859256307
+kidney neoplasms	neoplasms, glandular and epithelial	-0.400162354395
+kidney neoplasms	neoplastic syndromes, hereditary	-0.0735838779941
+kidney neoplasms	proteinuria	-0.164075630253
+kidney neoplasms	sarcoma	-0.001666666668
+kidney neoplasms	urination disorders	-0.0201388888874
+kidney neoplasms	urogenital neoplasms	-0.186769532853
+kidney neoplasms	urologic neoplasms	-1.43072422517
+kidney neoplasms	urological manifestations	-0.164075630253
+leprosy	mycobacterium infections	-0.963536463537
+leukemia	leukemia, b-cell	-0.358925583246
+leukemia	leukemia, lymphocytic, chronic, b-cell	-0.366045066045
+leukemia	leukemia, lymphoid	-1.13857363038
+leukemia	leukemia, myeloid	-0.949617633828
+leukemia	leukemia, myeloid, acute	-0.785072550189
+leukemia	lymphatic diseases	-0.843707803461
+leukemia	lymphoma	-0.0319944535368
+leukemia	lymphoproliferative disorders	-0.894107230059
+leukemia	neoplasms	-0.366996796862
+leukemia	neoplasms by histologic type	-0.748033136452
+leukemia	precursor cell lymphoblastic leukemia-lymphoma	-0.624296368883
+leukemia	stomatognathic diseases	-0.0139215139204
+leukemia, b-cell	leukemia, lymphocytic, chronic, b-cell	-2.09840686275
+leukemia, b-cell	leukemia, lymphoid	-0.723482163951
+leukemia, b-cell	leukemia, myeloid	-0.0048329190825
+leukemia, b-cell	leukemia, myeloid, acute	-0.0126994984047
+leukemia, b-cell	limb deformities, congenital	-0.028121775027
+leukemia, b-cell	liver cirrhosis	-0.0725430416081
+leukemia, b-cell	liver cirrhosis, biliary	-0.0555626598467
+leukemia, b-cell	lung neoplasms	-0.001680672271
+leukemia, b-cell	lymphatic diseases	-0.304500860929
+leukemia, b-cell	lymphoma	-0.2575023912
+leukemia, b-cell	lymphoma, non-hodgkin	-0.275606746197
+leukemia, b-cell	lymphoproliferative disorders	-0.369194397006
+leukemia, b-cell	motor neuron disease	-0.063527830487
+leukemia, b-cell	myocardial infarction	-0.0485671191561
+leukemia, b-cell	neoplasms, neuroepithelial	-0.0242706838815
+leukemia, b-cell	nevi and melanomas	-0.0323083778969
+leukemia, b-cell	proteinuria	-0.21089726213
+leukemia, b-cell	respiratory tract neoplasms	-0.001680672271
+leukemia, b-cell	spastic paraplegia, hereditary	-0.073688394277
+leukemia, b-cell	spinocerebellar ataxias	-0.0496965452837
+leukemia, b-cell	spondylitis, ankylosing	-0.08181203516
+leukemia, b-cell	thyroid diseases	-0.052440550688
+leukemia, b-cell	urination disorders	-0.0711341354726
+leukemia, b-cell	urological manifestations	-0.21089726213
+leukemia, b-cell	varicose veins	-0.0344992050896
+leukemia, lymphocytic, chronic, b-cell	leukemia, lymphoid	-0.719753086419
+leukemia, lymphocytic, chronic, b-cell	leukemia, myeloid	-0.039130434782
+leukemia, lymphocytic, chronic, b-cell	leukemia, myeloid, acute	-0.0395081528998
+leukemia, lymphocytic, chronic, b-cell	limb deformities, congenital	-0.0094943240445
+leukemia, lymphocytic, chronic, b-cell	liver cirrhosis	-0.0163461538456
+leukemia, lymphocytic, chronic, b-cell	lung neoplasms	-0.0727272727295
+leukemia, lymphocytic, chronic, b-cell	lymphatic diseases	-0.308457780236
+leukemia, lymphocytic, chronic, b-cell	lymphoma	-0.240705128207
+leukemia, lymphocytic, chronic, b-cell	lymphoma, non-hodgkin	-0.258640458641
+leukemia, lymphocytic, chronic, b-cell	lymphoproliferative disorders	-0.367286901104
+leukemia, lymphocytic, chronic, b-cell	malformations of cortical development	-0.0476190476209
+leukemia, lymphocytic, chronic, b-cell	motor neuron disease	-0.138943431511
+leukemia, lymphocytic, chronic, b-cell	myocardial infarction	-0.0921245421247
+leukemia, lymphocytic, chronic, b-cell	myocardial ischemia	-0.0198609997326
+leukemia, lymphocytic, chronic, b-cell	neoplasms by histologic type	-0.0111346221647
+leukemia, lymphocytic, chronic, b-cell	neoplasms, germ cell and embryonal	-0.0531094527365
+leukemia, lymphocytic, chronic, b-cell	neoplasms, nerve tissue	-0.047555272109
+leukemia, lymphocytic, chronic, b-cell	neoplasms, neuroepithelial	-0.075641025641
+leukemia, lymphocytic, chronic, b-cell	neuroectodermal tumors	-0.0540608556395
+leukemia, lymphocytic, chronic, b-cell	neuroendocrine tumors	-0.0339743589745
+leukemia, lymphocytic, chronic, b-cell	nevi and melanomas	-0.0970430107537
+leukemia, lymphocytic, chronic, b-cell	ovarian neoplasms	-0.0175245098051
+leukemia, lymphocytic, chronic, b-cell	pancreatic diseases	-0.0628205128205
+leukemia, lymphocytic, chronic, b-cell	parkinson disease	-0.0666666666659
+leukemia, lymphocytic, chronic, b-cell	parkinsonian disorders	-0.0618045815804
+leukemia, lymphocytic, chronic, b-cell	proteinuria	-0.256486042694
+leukemia, lymphocytic, chronic, b-cell	proteostasis deficiencies	-0.0676190476196
+leukemia, lymphocytic, chronic, b-cell	respiratory tract neoplasms	-0.0727272727295
+leukemia, lymphocytic, chronic, b-cell	spastic paraplegia, hereditary	-0.140476190476
+leukemia, lymphocytic, chronic, b-cell	spinocerebellar ataxias	-0.079761904761
+leukemia, lymphocytic, chronic, b-cell	spinocerebellar degenerations	-0.0111111111123
+leukemia, lymphocytic, chronic, b-cell	spondylitis, ankylosing	-0.133333333336
+leukemia, lymphocytic, chronic, b-cell	tdp-43 proteinopathies	-0.0583333333335
+leukemia, lymphocytic, chronic, b-cell	thoracic neoplasms	-0.0511904761925
+leukemia, lymphocytic, chronic, b-cell	thyroid diseases	-0.0555555555557
+leukemia, lymphocytic, chronic, b-cell	urination disorders	-0.120228494623
+leukemia, lymphocytic, chronic, b-cell	urologic neoplasms	-0.020430107528
+leukemia, lymphocytic, chronic, b-cell	urological manifestations	-0.256486042694
+leukemia, lymphocytic, chronic, b-cell	varicose veins	-0.0333333333339
+leukemia, lymphoid	leukemia, myeloid	-0.108333333333
+leukemia, lymphoid	leukemia, myeloid, acute	-0.0925609842843
+leukemia, lymphoid	liver cirrhosis	-0.00694444444275
+leukemia, lymphoid	lymphatic diseases	-1.09160198415
+leukemia, lymphoid	lymphoma	-0.134722222222
+leukemia, lymphoid	lymphoma, non-hodgkin	-0.0719696969695
+leukemia, lymphoid	lymphoproliferative disorders	-1.19866208178
+leukemia, lymphoid	neoplasms	-0.0834241956163
+leukemia, lymphoid	neoplasms by histologic type	-0.406671657761
+leukemia, lymphoid	precursor cell lymphoblastic leukemia-lymphoma	-1.1144654088
+leukemia, lymphoid	proteinuria	-0.0672619047622
+leukemia, lymphoid	urological manifestations	-0.0672619047622
+leukemia, myeloid	leukemia, myeloid, acute	-1.48497562535
+leukemia, myeloid	lung neoplasms	-0.0833333333326
+leukemia, myeloid	lymphoma	-0.0176282051271
+leukemia, myeloid	malabsorption syndromes	-0.046717171716
+leukemia, myeloid	mouth diseases	-0.0512820512801
+leukemia, myeloid	musculoskeletal abnormalities	-0.0079718205408
+leukemia, myeloid	myeloproliferative disorders	-0.290795481853
+leukemia, myeloid	myocardial infarction	-0.122081898202
+leukemia, myeloid	neoplasms	-0.0345626638575
+leukemia, myeloid	neoplasms by histologic type	-0.330900656857
+leukemia, myeloid	neoplasms, germ cell and embryonal	-0.0290880503138
+leukemia, myeloid	neoplasms, nerve tissue	-0.0404860973498
+leukemia, myeloid	neoplasms, neuroepithelial	-0.108974358973
+leukemia, myeloid	neuroectodermal tumors	-0.0126044519335
+leukemia, myeloid	pancreatic diseases	-0.0448717948702
+leukemia, myeloid	precursor cell lymphoblastic leukemia-lymphoma	-0.0801418439715
+leukemia, myeloid	proteinuria	-0.0959383753491
+leukemia, myeloid	rectal diseases	-0.0044908285873
+leukemia, myeloid	respiratory tract neoplasms	-0.0833333333326
+leukemia, myeloid	spondylitis, ankylosing	-0.0606060606051
+leukemia, myeloid	stomatognathic diseases	-0.0943965943957
+leukemia, myeloid	thoracic neoplasms	-0.0515765765752
+leukemia, myeloid	urological manifestations	-0.0959383753491
+leukemia, myeloid	varicose veins	-0.106306306306
+leukemia, myeloid, acute	lung neoplasms	-0.0667174990474
+leukemia, myeloid, acute	malabsorption syndromes	-0.052216517333
+leukemia, myeloid, acute	myeloproliferative disorders	-0.205630354956
+leukemia, myeloid, acute	myocardial infarction	-0.135286225404
+leukemia, myeloid, acute	neoplasms by histologic type	-0.189401648884
+leukemia, myeloid, acute	neoplasms, neuroepithelial	-0.0971595510811
+leukemia, myeloid, acute	precursor cell lymphoblastic leukemia-lymphoma	-0.095040627628
+leukemia, myeloid, acute	proteinuria	-0.110392259721
+leukemia, myeloid, acute	respiratory tract neoplasms	-0.0667174990474
+leukemia, myeloid, acute	spondylitis, ankylosing	-0.115997181114
+leukemia, myeloid, acute	stomatognathic diseases	-0.0118714644878
+leukemia, myeloid, acute	thoracic neoplasms	-0.0344315245472
+leukemia, myeloid, acute	urological manifestations	-0.110392259721
+leukemia, myeloid, acute	varicose veins	-0.0578442229605
+limb deformities, congenital	malformations of cortical development	-0.052631578948
+limb deformities, congenital	musculoskeletal abnormalities	-0.795064872456
+limb deformities, congenital	osteochondrodysplasias	-0.126020934689
+limb deformities, congenital	proteinuria	-0.0483025746211
+limb deformities, congenital	rectal diseases	-0.079083191851
+limb deformities, congenital	urological manifestations	-0.0483025746211
+limb deformities, congenital	varicose veins	-0.121862348179
+lipid metabolism disorders	lipid metabolism, inborn errors	-1.36824561403
+lipid metabolism disorders	lipidoses	-0.823333333333
+lipid metabolism disorders	lysosomal storage diseases	-0.188713450294
+lipid metabolism disorders	lysosomal storage diseases, nervous system	-0.313417366946
+lipid metabolism, inborn errors	lipidoses	-0.92380952381
+lipid metabolism, inborn errors	lysosomal storage diseases	-0.188888888889
+lipid metabolism, inborn errors	lysosomal storage diseases, nervous system	-0.315810374782
+lipidoses	lysosomal storage diseases	-0.498412698415
+lipidoses	lysosomal storage diseases, nervous system	-0.686839481556
+liver cirrhosis	liver cirrhosis, biliary	-1.99913274746
+liver cirrhosis	liver diseases	-0.683033728688
+liver cirrhosis	lupus erythematosus, systemic	-0.0568434343426
+liver cirrhosis	lymphoma	-0.187499999999
+liver cirrhosis	lymphoma, non-hodgkin	-0.167243083004
+liver cirrhosis	malabsorption syndromes	-0.156369731801
+liver cirrhosis	myocardial infarction	-0.107198544698
+liver cirrhosis	nephritis	-0.0002470355702
+liver cirrhosis	proteinuria	-0.133928571427
+liver cirrhosis	psoriasis	-0.0083689458665
+liver cirrhosis	rheumatic diseases	-0.126314580357
+liver cirrhosis	skin diseases, papulosquamous	-0.0083689458665
+liver cirrhosis	spondylitis, ankylosing	-0.201388888889
+liver cirrhosis	stomatognathic diseases	-0.04433429331
+liver cirrhosis	thyroid diseases	-0.0143518518506
+liver cirrhosis	urological manifestations	-0.133928571427
+liver cirrhosis, biliary	liver diseases	-0.586617763939
+liver cirrhosis, biliary	lupus erythematosus, systemic	-0.0273173617287
+liver cirrhosis, biliary	lymphoma	-0.171118563058
+liver cirrhosis, biliary	lymphoma, non-hodgkin	-0.153052261747
+liver cirrhosis, biliary	malabsorption syndromes	-0.132850241546
+liver cirrhosis, biliary	myocardial infarction	-0.0837049423985
+liver cirrhosis, biliary	nephritis	-0.0010320597294
+liver cirrhosis, biliary	proteinuria	-0.133708242404
+liver cirrhosis, biliary	rheumatic diseases	-0.0620450419672
+liver cirrhosis, biliary	spondylitis, ankylosing	-0.18364389234
+liver cirrhosis, biliary	stomatognathic diseases	-0.0172346259287
+liver cirrhosis, biliary	urological manifestations	-0.133708242404
+lung diseases	lung diseases, obstructive	-1.28722334004
+lung diseases	lung neoplasms	-0.602231365722
+lung diseases	myocardial ischemia	-0.0398170335757
+lung diseases	neoplasms by site	-0.128986084416
+lung diseases	neoplasms, germ cell and embryonal	-0.0132686362059
+lung diseases	neoplasms, glandular and epithelial	-0.0490010286436
+lung diseases	otorhinolaryngologic diseases	-0.030743624368
+lung diseases	proteinuria	-0.0422653568451
+lung diseases	respiratory hypersensitivity	-1.14661844944
+lung diseases	respiratory tract diseases	-1.62673653385
+lung diseases	respiratory tract neoplasms	-0.602231365722
+lung diseases	rheumatic diseases	-0.116660851681
+lung diseases	thoracic neoplasms	-0.58365191147
+lung diseases	urination disorders	-0.0017656224722
+lung diseases	urological manifestations	-0.0422653568451
+lung diseases, obstructive	lymphoma	-0.0267857142844
+lung diseases, obstructive	malabsorption syndromes	-0.111111111111
+lung diseases, obstructive	otorhinolaryngologic diseases	-0.106294014082
+lung diseases, obstructive	proteinuria	-0.118598382749
+lung diseases, obstructive	respiratory hypersensitivity	-1.82278481012
+lung diseases, obstructive	respiratory tract diseases	-1.11071428571
+lung diseases, obstructive	rheumatic diseases	-0.0629539951563
+lung diseases, obstructive	urological manifestations	-0.118598382749
+lung neoplasms	motor neuron disease	-0.004279131007
+lung neoplasms	mouth diseases	-0.0714285714286
+lung neoplasms	myocardial infarction	-0.132754342431
+lung neoplasms	myocardial ischemia	-0.209874189861
+lung neoplasms	neoplasms, germ cell and embryonal	-0.203571428568
+lung neoplasms	neoplasms, nerve tissue	-0.165854401463
+lung neoplasms	neoplasms, neuroepithelial	-0.22619047619
+lung neoplasms	nephritis	-0.0181818181815
+lung neoplasms	neuroectodermal tumors	-0.180032733225
+lung neoplasms	nevi and melanomas	-0.154411764706
+lung neoplasms	proteinuria	-0.196428571429
+lung neoplasms	respiratory tract diseases	-0.479341736695
+lung neoplasms	respiratory tract neoplasms	-2.0
+lung neoplasms	stomatognathic diseases	-0.143980343981
+lung neoplasms	stomatognathic system abnormalities	-0.0446428571415
+lung neoplasms	thoracic neoplasms	-1.89605263158
+lung neoplasms	urination disorders	-0.170955882351
+lung neoplasms	urological manifestations	-0.196428571429
+lung neoplasms	varicose veins	-0.0105263157901
+lupus erythematosus, systemic	lymphoma	-0.0442171717169
+lupus erythematosus, systemic	multiple sclerosis	-0.334758454106
+lupus erythematosus, systemic	psoriasis	-0.358880275625
+lupus erythematosus, systemic	rheumatic diseases	-0.235605025718
+lupus erythematosus, systemic	skin and connective tissue diseases	-0.248971993874
+lupus erythematosus, systemic	skin diseases, papulosquamous	-0.358880275625
+lupus erythematosus, systemic	stomatognathic diseases	-0.100138352637
+lymphatic diseases	lymphoma	-0.484754161013
+lymphatic diseases	lymphoma, non-hodgkin	-0.336819522661
+lymphatic diseases	lymphoproliferative disorders	-1.32606611087
+lymphatic diseases	neoplasms	-0.194895065211
+lymphatic diseases	neoplasms by histologic type	-0.508049681064
+lymphatic diseases	precursor cell lymphoblastic leukemia-lymphoma	-0.528382208339
+lymphoma	lymphoma, non-hodgkin	-1.73608366271
+lymphoma	lymphoproliferative disorders	-0.593740924092
+lymphoma	multiple sclerosis	-0.0034770920974
+lymphoma	myocardial infarction	-0.240081427581
+lymphoma	myocardial ischemia	-0.0473721508722
+lymphoma	neoplasms by histologic type	-0.0448279466394
+lymphoma	neoplasms, germ cell and embryonal	-0.0778508771914
+lymphoma	neoplasms, glandular and epithelial	-0.0367882237915
+lymphoma	neoplasms, nerve tissue	-0.120486208182
+lymphoma	neoplasms, neuroepithelial	-0.166666666668
+lymphoma	nephritis	-0.0256093544146
+lymphoma	neuroectodermal tumors	-0.0909437119154
+lymphoma	orbital diseases	-0.26398995149
+lymphoma	proteinuria	-0.129542606517
+lymphoma	psoriasis	-0.0660612535618
+lymphoma	respiratory hypersensitivity	-0.0275537634394
+lymphoma	rheumatic diseases	-0.0309330542513
+lymphoma	skin diseases, papulosquamous	-0.0660612535618
+lymphoma	spastic paraplegia, hereditary	-0.0382575757594
+lymphoma	spondylitis, ankylosing	-0.0069444444443
+lymphoma	stomatognathic diseases	-0.0593616157123
+lymphoma	thyroid diseases	-0.264351851852
+lymphoma	urologic neoplasms	-0.0480816226797
+lymphoma	urological manifestations	-0.129542606517
+lymphoma	uveal diseases	-0.0186214729793
+lymphoma, non-hodgkin	lymphoproliferative disorders	-0.440283052697
+lymphoma, non-hodgkin	myocardial infarction	-0.246453546454
+lymphoma, non-hodgkin	neoplasms, germ cell and embryonal	-0.0273341523311
+lymphoma, non-hodgkin	neoplasms, nerve tissue	-0.0722124957516
+lymphoma, non-hodgkin	neoplasms, neuroepithelial	-0.130105401844
+lymphoma, non-hodgkin	neuroectodermal tumors	-0.0423008998401
+lymphoma, non-hodgkin	orbital diseases	-0.282717282715
+lymphoma, non-hodgkin	proteinuria	-0.119408369406
+lymphoma, non-hodgkin	thyroid diseases	-0.25909090909
+lymphoma, non-hodgkin	urologic neoplasms	-0.0414707021557
+lymphoma, non-hodgkin	urological manifestations	-0.119408369406
+lymphoma, non-hodgkin	uveal diseases	-0.0229672288516
+lymphoproliferative disorders	multiple sclerosis	-0.0112869598979
+lymphoproliferative disorders	neoplasms	-0.181579118531
+lymphoproliferative disorders	neoplasms by histologic type	-0.522809393719
+lymphoproliferative disorders	precursor cell lymphoblastic leukemia-lymphoma	-0.648957236149
+lysosomal storage diseases	lysosomal storage diseases, nervous system	-1.40596508646
+macular degeneration	retinal degeneration	-0.867841617841
+macular degeneration	retinal diseases	-0.757840950099
+malabsorption syndromes	multiple sclerosis	-0.116317245906
+malabsorption syndromes	myocardial infarction	-0.0022731405695
+malabsorption syndromes	parkinsonian disorders	-0.0071408877874
+malabsorption syndromes	proteinuria	-0.30999066293
+malabsorption syndromes	respiratory hypersensitivity	-0.125
+malabsorption syndromes	rheumatic diseases	-0.0596257821535
+malabsorption syndromes	spondylitis, ankylosing	-0.292270531403
+malabsorption syndromes	stomatognathic diseases	-0.0338366535561
+malabsorption syndromes	urination disorders	-0.158870545073
+malabsorption syndromes	urological manifestations	-0.30999066293
+male urogenital diseases	metabolic diseases	-0.0212381796291
+male urogenital diseases	neoplasms	-0.292717436172
+male urogenital diseases	neoplasms by histologic type	-0.0395463639348
+male urogenital diseases	neoplasms by site	-0.533733571337
+male urogenital diseases	nutritional and metabolic diseases	-0.0205378760827
+male urogenital diseases	prostatic diseases	-0.378618730833
+male urogenital diseases	prostatic neoplasms	-0.378618730833
+male urogenital diseases	urogenital neoplasms	-0.675629861599
+male urogenital diseases	urologic diseases	-1.15354491999
+malformations of cortical development	motor neuron disease	-0.0426944971528
+malformations of cortical development	muscular dystrophies	-0.194444444444
+malformations of cortical development	myocardial infarction	-0.0897435897439
+malformations of cortical development	nervous system malformations	-0.340806807953
+malformations of cortical development	proteinuria	-0.277310924368
+malformations of cortical development	urination disorders	-0.184027777779
+malformations of cortical development	urological manifestations	-0.277310924368
+mental retardation, x-linked	neurobehavioral manifestations	-1.32071273508
+mental retardation, x-linked	neurologic manifestations	-0.72313681165
+mental retardation, x-linked	proteinuria	-0.0545979703347
+mental retardation, x-linked	urological manifestations	-0.0545979703347
+metabolic diseases	metabolism, inborn errors	-0.73539447213
+metabolic diseases	musculoskeletal diseases	-0.044408050005
+metabolic diseases	nervous system diseases	-0.264835943571
+metabolic diseases	nutritional and metabolic diseases	-1.34974546523
+metabolic diseases	skin and connective tissue diseases	-0.086135705837
+metabolic syndrome x	proteinuria	-0.107142857142
+metabolic syndrome x	urological manifestations	-0.107142857142
+metabolism, inborn errors	nutritional and metabolic diseases	-0.716711273518
+metal metabolism, inborn errors	nutrition disorders	-0.300505050505
+metal metabolism, inborn errors	renal tubular transport, inborn errors	-0.0545157456914
+mitochondrial diseases	muscular diseases	-0.0409831258879
+motor neuron disease	myocardial infarction	-0.0205842544567
+motor neuron disease	neurodegenerative diseases	-0.190048613474
+motor neuron disease	neuromuscular diseases	-0.298831346067
+motor neuron disease	parkinson disease	-0.0013573065371
+motor neuron disease	proteinuria	-0.177521761393
+motor neuron disease	proteostasis deficiencies	-1.08603546991
+motor neuron disease	respiratory tract neoplasms	-0.004279131007
+motor neuron disease	spastic paraplegia, hereditary	-0.0554395951925
+motor neuron disease	spinal cord diseases	-1.16729846303
+motor neuron disease	spinocerebellar ataxias	-0.150638522221
+motor neuron disease	spinocerebellar degenerations	-0.130865503261
+motor neuron disease	spondylitis, ankylosing	-0.0148787196806
+motor neuron disease	tdp-43 proteinopathies	-1.34815668203
+motor neuron disease	urination disorders	-0.007142244338
+motor neuron disease	urological manifestations	-0.177521761393
+mouth diseases	neoplasms, neuroepithelial	-5.01820807131e-14
+mouth diseases	orbital diseases	-0.0190575190588
+mouth diseases	panuveitis	-1.45980595981
+mouth diseases	proteinuria	-0.0538847117786
+mouth diseases	psoriasis	-0.343304843305
+mouth diseases	respiratory tract neoplasms	-0.0714285714286
+mouth diseases	skin diseases, papulosquamous	-0.343304843305
+mouth diseases	skin diseases, vascular	-1.30368244859
+mouth diseases	spondylarthritis	-0.0595238095245
+mouth diseases	spondylarthropathies	-0.0595238095245
+mouth diseases	spondylitis	-0.0595238095245
+mouth diseases	spondylitis, ankylosing	-0.277777777779
+mouth diseases	stomatognathic diseases	-1.83676533677
+mouth diseases	stomatognathic system abnormalities	-1.19880952381
+mouth diseases	thoracic neoplasms	-0.0507575757565
+mouth diseases	thyroid diseases	-0.155555555556
+mouth diseases	urological manifestations	-0.0538847117786
+mouth diseases	uveal diseases	-1.3524629364
+mouth diseases	uveitis	-1.45980595981
+mouth diseases	uveitis, anterior	-1.45980595981
+mouth diseases	varicose veins	-0.193939393941
+mouth diseases	vascular diseases	-0.0253110542162
+mouth diseases	vasculitis	-1.38717948718
+movement disorders	neurodegenerative diseases	-0.31594386934
+movement disorders	neurologic manifestations	-0.0021754263825
+movement disorders	ocular motility disorders	-0.162256541414
+movement disorders	parkinson disease	-1.42360850531
+movement disorders	parkinsonian disorders	-1.4807841789
+movement disorders	proteinuria	-0.104645354644
+movement disorders	signs and symptoms	-0.0861911077422
+movement disorders	tauopathies	-0.290583554377
+movement disorders	urological manifestations	-0.104645354644
+multiple sclerosis	neoplasms, glandular and epithelial	-0.0234685316994
+multiple sclerosis	psoriasis	-0.347138761242
+multiple sclerosis	rheumatic diseases	-0.223749155613
+multiple sclerosis	skin diseases, papulosquamous	-0.347138761242
+multiple sclerosis	spondylitis, ankylosing	-0.088030059044
+multiple sclerosis	stomatognathic diseases	-0.193471978952
+muscular diseases	muscular disorders, atrophic	-0.79797979798
+muscular diseases	muscular dystrophies	-0.789512774807
+muscular diseases	musculoskeletal diseases	-0.15687174778
+muscular diseases	neuromuscular diseases	-0.589215621805
+muscular diseases	ocular motility disorders	-0.063114808214
+muscular disorders, atrophic	muscular dystrophies	-1.44718928415
+muscular disorders, atrophic	neuromuscular diseases	-0.0458567141296
+muscular dystrophies	neuromuscular diseases	-0.10593783505
+musculoskeletal abnormalities	musculoskeletal diseases	-0.186788139824
+musculoskeletal abnormalities	stomatognathic diseases	-0.162732380474
+musculoskeletal abnormalities	stomatognathic system abnormalities	-0.206463739994
+musculoskeletal diseases	neoplasms	-0.0121684437044
+musculoskeletal diseases	neoplasms by histologic type	-0.0106870154692
+musculoskeletal diseases	neoplasms by site	-0.00647803704327
+musculoskeletal diseases	nervous system diseases	-0.120792473721
+musculoskeletal diseases	neuromuscular diseases	-0.14160956951
+musculoskeletal diseases	nutritional and metabolic diseases	-0.0437905868765
+musculoskeletal diseases	osteochondrodysplasias	-0.107766432316
+musculoskeletal diseases	rheumatic diseases	-0.3254294356
+musculoskeletal diseases	skin and connective tissue diseases	-0.167355681324
+mycobacterium infections	rheumatic diseases	-0.00274876828525
+mycobacterium infections	spondylitis, ankylosing	-0.0900178253129
+myeloproliferative disorders	precursor cell lymphoblastic leukemia-lymphoma	-0.0243532560214
+myeloproliferative disorders	proteinuria	-0.13681932103
+myeloproliferative disorders	spondylitis, ankylosing	-0.0404640633847
+myeloproliferative disorders	urological manifestations	-0.13681932103
+myeloproliferative disorders	varicose veins	-0.14278002699
+myocardial infarction	myocardial ischemia	-1.10455532839
+myocardial infarction	neoplasms, connective and soft tissue	-0.0007643666191
+myocardial infarction	neoplasms, germ cell and embryonal	-0.0519230769226
+myocardial infarction	neoplasms, glandular and epithelial	-0.0485450878703
+myocardial infarction	neoplasms, nerve tissue	-0.0323593457241
+myocardial infarction	neoplasms, neuroepithelial	-0.150554400557
+myocardial infarction	neoplastic syndromes, hereditary	-0.0078704149441
+myocardial infarction	nephritis	-0.0341158841155
+myocardial infarction	neuroectodermal tumors	-0.0287506819432
+myocardial infarction	nevi and melanomas	-0.0998010610078
+myocardial infarction	osteoporosis	-0.228632478633
+myocardial infarction	ovarian diseases	-0.0384615384613
+myocardial infarction	ovarian neoplasms	-0.0760180995498
+myocardial infarction	pancreatic diseases	-0.236139986142
+myocardial infarction	parkinson disease	-0.0478831246271
+myocardial infarction	parkinsonian disorders	-0.0491766298222
+myocardial infarction	pathologic processes	-0.0565996503499
+myocardial infarction	pathological conditions, anatomical	-0.137516578249
+myocardial infarction	proteinuria	-0.327838827838
+myocardial infarction	rectal diseases	-0.002255808708
+myocardial infarction	respiratory tract neoplasms	-0.132754342431
+myocardial infarction	sarcoma	-0.051497975708
+myocardial infarction	stomatognathic system abnormalities	-0.0024420024405
+myocardial infarction	tauopathies	-0.0105769230778
+myocardial infarction	thoracic neoplasms	-0.0950466200469
+myocardial infarction	urination disorders	-0.208637267905
+myocardial infarction	urological manifestations	-0.327838827838
+myocardial infarction	varicose veins	-0.05641025641
+myocardial infarction	vascular diseases	-0.0253723038373
+myocardial ischemia	neoplasms, germ cell and embryonal	-0.002906976744
+myocardial ischemia	neoplasms, nerve tissue	-0.0061234807355
+myocardial ischemia	neoplasms, neuroepithelial	-0.0744243896775
+myocardial ischemia	neuroectodermal tumors	-0.000247402276
+myocardial ischemia	pancreatic diseases	-0.121688071271
+myocardial ischemia	proteinuria	-0.1730197587
+myocardial ischemia	respiratory tract neoplasms	-0.209874189861
+myocardial ischemia	thoracic neoplasms	-0.182272056109
+myocardial ischemia	urination disorders	-0.0765298580979
+myocardial ischemia	urological manifestations	-0.1730197587
+myocardial ischemia	vascular diseases	-0.591625406107
+neoplasms	neoplasms by histologic type	-0.955719445076
+neoplasms	neoplasms by site	-0.988249909161
+neoplasms	neoplasms, germ cell and embryonal	-0.0950257976266
+neoplasms	neoplasms, glandular and epithelial	-0.287316902661
+neoplasms	neoplasms, nerve tissue	-0.0583941291553
+neoplasms	nervous system diseases	-0.00275962866113
+neoplasms	neuroectodermal tumors	-0.0482967825497
+neoplasms	prostatic diseases	-0.17078322305
+neoplasms	prostatic neoplasms	-0.17078322305
+neoplasms	respiratory tract diseases	-0.00318089275344
+neoplasms	skin and connective tissue diseases	-0.130138982451
+neoplasms	skin diseases	-0.125899005625
+neoplasms	urogenital neoplasms	-0.515597571961
+neoplasms	vascular diseases	-0.0266306793236
+neoplasms by histologic type	neoplasms by site	-0.323792354531
+neoplasms by histologic type	neoplasms, germ cell and embryonal	-0.356404892437
+neoplasms by histologic type	neoplasms, glandular and epithelial	-0.610476660834
+neoplasms by histologic type	neoplasms, nerve tissue	-0.316565099026
+neoplasms by histologic type	neoplasms, neuroepithelial	-0.0347869630307
+neoplasms by histologic type	neuroectodermal tumors	-0.301806183712
+neoplasms by histologic type	respiratory tract diseases	-0.013025015494
+neoplasms by histologic type	urogenital neoplasms	-0.225617157001
+neoplasms by histologic type	urologic diseases	-0.00211155624829
+neoplasms by histologic type	vascular diseases	-0.0358532562784
+neoplasms by site	neoplasms, germ cell and embryonal	-0.008801745127
+neoplasms by site	neoplasms, glandular and epithelial	-0.300734242691
+neoplasms by site	pancreatic diseases	-0.00057663690656
+neoplasms by site	prostatic diseases	-0.535921965501
+neoplasms by site	prostatic neoplasms	-0.535921965501
+neoplasms by site	respiratory tract diseases	-0.15379792542
+neoplasms by site	skin and connective tissue diseases	-0.108427674083
+neoplasms by site	skin diseases	-0.148260833047
+neoplasms by site	urogenital neoplasms	-0.964737267288
+neoplasms by site	urologic diseases	-0.129216885065
+neoplasms by site	urologic neoplasms	-0.0270752694045
+neoplasms by site	vascular diseases	-0.0281319683047
+neoplasms, connective and soft tissue	neoplasms, connective tissue	-1.01667667908
+neoplasms, connective and soft tissue	proteinuria	-0.0423820082355
+neoplasms, connective and soft tissue	sarcoma	-1.01277161863
+neoplasms, connective and soft tissue	urological manifestations	-0.0423820082355
+neoplasms, connective tissue	sarcoma	-0.694227330779
+neoplasms, germ cell and embryonal	neoplasms, glandular and epithelial	-0.652950434296
+neoplasms, germ cell and embryonal	neoplasms, nerve tissue	-1.61363406749
+neoplasms, germ cell and embryonal	neoplasms, neuroepithelial	-1.04166666666
+neoplasms, germ cell and embryonal	neoplastic syndromes, hereditary	-0.159199726401
+neoplasms, germ cell and embryonal	neuroectodermal tumors	-1.64633032452
+neoplasms, germ cell and embryonal	neuroendocrine tumors	-0.999999999999
+neoplasms, germ cell and embryonal	nevi and melanomas	-0.808823529411
+neoplasms, germ cell and embryonal	parkinson disease	-0.0270325203251
+neoplasms, germ cell and embryonal	parkinsonian disorders	-0.0279343179162
+neoplasms, germ cell and embryonal	pigmentation disorders	-0.00662878787515
+neoplasms, germ cell and embryonal	prostatic diseases	-0.0267481502955
+neoplasms, germ cell and embryonal	prostatic neoplasms	-0.0267481502955
+neoplasms, germ cell and embryonal	proteinuria	-0.128246753246
+neoplasms, germ cell and embryonal	respiratory tract diseases	-0.00630252100922
+neoplasms, germ cell and embryonal	respiratory tract neoplasms	-0.203571428568
+neoplasms, germ cell and embryonal	thoracic neoplasms	-0.183333333332
+neoplasms, germ cell and embryonal	urogenital neoplasms	-0.128379830888
+neoplasms, germ cell and embryonal	urologic neoplasms	-0.0512534007005
+neoplasms, germ cell and embryonal	urological manifestations	-0.128246753246
+neoplasms, glandular and epithelial	neoplasms, nerve tissue	-0.659481770236
+neoplasms, glandular and epithelial	neoplasms, neuroepithelial	-0.655704152995
+neoplasms, glandular and epithelial	neoplastic syndromes, hereditary	-0.0768072370077
+neoplasms, glandular and epithelial	neuroectodermal tumors	-0.67182819817
+neoplasms, glandular and epithelial	proteinuria	-0.111136218424
+neoplasms, glandular and epithelial	respiratory tract diseases	-0.084352007347
+neoplasms, glandular and epithelial	stomatognathic system abnormalities	-0.00364662064125
+neoplasms, glandular and epithelial	urogenital neoplasms	-0.330348133311
+neoplasms, glandular and epithelial	urologic diseases	-0.0820808503531
+neoplasms, glandular and epithelial	urologic neoplasms	-0.437564938988
+neoplasms, glandular and epithelial	urological manifestations	-0.111136218424
+neoplasms, nerve tissue	neoplasms, neuroepithelial	-1.08538346846
+neoplasms, nerve tissue	neoplastic syndromes, hereditary	-0.172981240688
+neoplasms, nerve tissue	neuroectodermal tumors	-1.70843736431
+neoplasms, nerve tissue	neuroendocrine tumors	-1.05741543193
+neoplasms, nerve tissue	nevi and melanomas	-0.792346938776
+neoplasms, nerve tissue	parkinson disease	-0.0226212003776
+neoplasms, nerve tissue	parkinsonian disorders	-0.0229921000657
+neoplasms, nerve tissue	proteinuria	-0.137188208617
+neoplasms, nerve tissue	respiratory tract neoplasms	-0.165854401463
+neoplasms, nerve tissue	thoracic neoplasms	-0.146694764863
+neoplasms, nerve tissue	urogenital neoplasms	-0.0573809689159
+neoplasms, nerve tissue	urologic neoplasms	-0.01694371297
+neoplasms, nerve tissue	urological manifestations	-0.137188208617
+neoplasms, neuroepithelial	neuroectodermal tumors	-1.12703526121
+neoplasms, neuroepithelial	ovarian diseases	-0.10282051282
+neoplasms, neuroepithelial	ovarian neoplasms	-0.208632233382
+neoplasms, neuroepithelial	pancreatic diseases	-0.0833333333335
+neoplasms, neuroepithelial	proteinuria	-0.251253132831
+neoplasms, neuroepithelial	respiratory tract neoplasms	-0.22619047619
+neoplasms, neuroepithelial	stomatognathic system abnormalities	-0.194862155387
+neoplasms, neuroepithelial	thoracic neoplasms	-0.187121212122
+neoplasms, neuroepithelial	urination disorders	-0.0479166666665
+neoplasms, neuroepithelial	urological manifestations	-0.251253132831
+neoplastic syndromes, hereditary	neuroectodermal tumors	-0.143763809699
+neoplastic syndromes, hereditary	neuroendocrine tumors	-0.10065922921
+neoplastic syndromes, hereditary	nevi and melanomas	-0.196176470588
+neoplastic syndromes, hereditary	ovarian neoplasms	-0.0931372549013
+neoplastic syndromes, hereditary	urologic neoplasms	-0.0705809370901
+nephritis	orbital diseases	-0.0418081918058
+nephritis	otorhinolaryngologic diseases	-0.238899410772
+nephritis	proteinuria	-0.0007215007218
+nephritis	respiratory tract neoplasms	-0.0181818181815
+nephritis	stomatognathic diseases	-0.0439033023768
+nephritis	thyroid diseases	-0.0335664335653
+nephritis	urination disorders	-0.18495813397
+nephritis	urologic diseases	-0.0222769004479
+nephritis	urological manifestations	-0.0007215007218
+nervous system diseases	neurobehavioral manifestations	-0.00712465294914
+nervous system diseases	neurodegenerative diseases	-0.535426566297
+nervous system diseases	neurologic manifestations	-0.395073025275
+nervous system diseases	neuromuscular diseases	-0.234660307111
+nervous system diseases	nutritional and metabolic diseases	-0.268584079076
+nervous system diseases	pathological conditions, signs and symptoms	-0.0977049762818
+nervous system diseases	signs and symptoms	-0.0774527582333
+nervous system malformations	neurodegenerative diseases	-0.38717397849
+nervous system malformations	neuromuscular diseases	-0.581000281455
+nervous system malformations	peripheral nervous system diseases	-1.03309653993
+nervous system malformations	polyneuropathies	-1.05130640568
+nervous system malformations	spastic paraplegia, hereditary	-0.408162179853
+neurobehavioral manifestations	neurologic manifestations	-1.17206719619
+neurobehavioral manifestations	pathological conditions, signs and symptoms	-0.18584703762
+neurobehavioral manifestations	signs and symptoms	-0.425347422443
+neurodegenerative diseases	neurologic manifestations	-0.288180069864
+neurodegenerative diseases	neuromuscular diseases	-0.668893108768
+neurodegenerative diseases	parkinson disease	-0.138376843391
+neurodegenerative diseases	parkinsonian disorders	-0.151163892295
+neurodegenerative diseases	peripheral nervous system diseases	-0.47022640998
+neurodegenerative diseases	polyneuropathies	-0.413850422876
+neurodegenerative diseases	proteostasis deficiencies	-0.0404349559709
+neurodegenerative diseases	signs and symptoms	-0.0425543375466
+neurodegenerative diseases	spastic paraplegia, hereditary	-0.0074345895245
+neurodegenerative diseases	spinal cord diseases	-0.431971560136
+neurodegenerative diseases	spinocerebellar ataxias	-0.0244712422408
+neurodegenerative diseases	spinocerebellar degenerations	-0.0656141974777
+neurodegenerative diseases	tauopathies	-0.152866798938
+neuroectodermal tumors	neuroendocrine tumors	-1.08536859455
+neuroectodermal tumors	nevi and melanomas	-0.82273725093
+neuroectodermal tumors	parkinson disease	-0.0429031960941
+neuroectodermal tumors	parkinsonian disorders	-0.0427291765652
+neuroectodermal tumors	proteinuria	-0.132293587125
+neuroectodermal tumors	respiratory tract neoplasms	-0.180032733225
+neuroectodermal tumors	thoracic neoplasms	-0.160773261352
+neuroectodermal tumors	urogenital neoplasms	-0.0605537273806
+neuroectodermal tumors	urologic neoplasms	-0.0158474561365
+neuroectodermal tumors	urological manifestations	-0.132293587125
+neuroendocrine tumors	nevi and melanomas	-1.375
+neurologic manifestations	neuromuscular diseases	-0.0335518029247
+neurologic manifestations	pathological conditions, signs and symptoms	-0.667950329937
+neurologic manifestations	signs and symptoms	-0.980999133725
+neurologic manifestations	spinal cord diseases	-0.252665185176
+neurologic manifestations	spinocerebellar ataxias	-0.237570853591
+neurologic manifestations	spinocerebellar degenerations	-0.213373573986
+neuromuscular diseases	peripheral nervous system diseases	-0.75707955219
+neuromuscular diseases	polyneuropathies	-0.676439941903
+neuromuscular diseases	spastic paraplegia, hereditary	-0.150762634307
+neuromuscular diseases	spinal cord diseases	-0.312867978721
+nevi and melanomas	parkinson disease	-0.0612318840569
+nevi and melanomas	parkinsonian disorders	-0.0567089910764
+nevi and melanomas	proteinuria	-0.163095238095
+nevi and melanomas	respiratory tract neoplasms	-0.154411764706
+nevi and melanomas	thoracic neoplasms	-0.127777777776
+nevi and melanomas	urological manifestations	-0.163095238095
+nutrition disorders	obesity	-1.24140859141
+nutrition disorders	overnutrition	-1.24140859141
+nutrition disorders	overweight	-1.24140859141
+nutrition disorders	renal tubular transport, inborn errors	-0.149999999999
+nutritional and metabolic diseases	skin and connective tissue diseases	-0.0856095875004
+obesity	overnutrition	-1.92307692307
+obesity	overweight	-1.92307692307
+obesity	proteinuria	-0.051485551485
+obesity	urological manifestations	-0.051485551485
+ocular motility disorders	proteinuria	-0.199512062888
+ocular motility disorders	signs and symptoms	-0.226995607678
+ocular motility disorders	spinocerebellar ataxias	-0.011788048553
+ocular motility disorders	tauopathies	-0.384162895928
+ocular motility disorders	urination disorders	-0.0372660427806
+ocular motility disorders	urological manifestations	-0.199512062888
+orbital diseases	panuveitis	-0.346153846152
+orbital diseases	proteinuria	-0.0614570614588
+orbital diseases	skin diseases, vascular	-0.25233785822
+orbital diseases	spondylitis, ankylosing	-0.124102564102
+orbital diseases	thyroid diseases	-1.26100178891
+orbital diseases	urological manifestations	-0.0614570614588
+orbital diseases	uveal diseases	-0.252337858223
+orbital diseases	uveitis	-0.346153846152
+orbital diseases	uveitis, anterior	-0.346153846152
+orbital diseases	vasculitis	-0.297435897435
+osteoporosis	proteinuria	-0.0357142857151
+osteoporosis	urination disorders	-0.122916666667
+osteoporosis	urological manifestations	-0.0357142857151
+otorhinolaryngologic diseases	proteinuria	-0.10607531056
+otorhinolaryngologic diseases	respiratory hypersensitivity	-0.235267857143
+otorhinolaryngologic diseases	respiratory tract diseases	-0.281942733991
+otorhinolaryngologic diseases	rheumatic diseases	-0.0586614127402
+otorhinolaryngologic diseases	sensation disorders	-0.619791666666
+otorhinolaryngologic diseases	stomatognathic diseases	-0.385214698393
+otorhinolaryngologic diseases	urination disorders	-0.0260416666655
+otorhinolaryngologic diseases	urological manifestations	-0.10607531056
+otorhinolaryngologic diseases	vision disorders	-0.578125000001
+ovarian diseases	ovarian neoplasms	-1.30374618542
+ovarian diseases	rectal diseases	-0.0561142309862
+ovarian diseases	urogenital neoplasms	-0.172122250043
+ovarian neoplasms	pancreatic diseases	-0.058225729316
+ovarian neoplasms	proteinuria	-0.0050149091899
+ovarian neoplasms	rectal diseases	-0.0760594560394
+ovarian neoplasms	urogenital neoplasms	-0.108959861346
+ovarian neoplasms	urological manifestations	-0.0050149091899
+overnutrition	overweight	-1.92307692307
+overnutrition	proteinuria	-0.051485551485
+overnutrition	urological manifestations	-0.051485551485
+overweight	proteinuria	-0.051485551485
+overweight	urological manifestations	-0.051485551485
+pancreatic diseases	proteinuria	-0.181077694235
+pancreatic diseases	spondylitis, ankylosing	-2.10009787338e-12
+pancreatic diseases	urination disorders	-0.039583333333
+pancreatic diseases	urological manifestations	-0.181077694235
+pancreatic diseases	varicose veins	-0.15606060606
+panuveitis	psoriasis	-0.342539439554
+panuveitis	skin diseases, papulosquamous	-0.342539439554
+panuveitis	skin diseases, vascular	-1.83182503771
+panuveitis	spinal diseases	-0.07933853586
+panuveitis	spondylarthritis	-0.219396195202
+panuveitis	spondylarthropathies	-0.219396195202
+panuveitis	spondylitis	-0.219396195202
+panuveitis	spondylitis, ankylosing	-0.450256410257
+panuveitis	stomatognathic diseases	-1.01908523909
+panuveitis	thyroid diseases	-0.0606440071552
+panuveitis	uveal diseases	-1.86515837104
+panuveitis	uveitis	-2.15384615385
+panuveitis	uveitis, anterior	-2.15384615385
+panuveitis	vasculitis	-2.00073260073
+parkinson disease	parkinsonian disorders	-2.09813150009
+parkinson disease	proteinuria	-0.18354978355
+parkinson disease	tauopathies	-0.182051282051
+parkinson disease	urination disorders	-0.0381340579693
+parkinson disease	urological manifestations	-0.18354978355
+parkinsonian disorders	proteinuria	-0.207629288276
+parkinsonian disorders	tauopathies	-0.17761485826
+parkinsonian disorders	urination disorders	-0.061363246396
+parkinsonian disorders	urological manifestations	-0.207629288276
+pathologic processes	pathological conditions, signs and symptoms	-0.698885229127
+pathologic processes	proteinuria	-0.0161401098905
+pathologic processes	urological manifestations	-0.0161401098905
+pathological conditions, anatomical	stomatognathic diseases	-0.0294970678221
+pathological conditions, signs and symptoms	proteinuria	-0.229571219617
+pathological conditions, signs and symptoms	signs and symptoms	-1.42171600024
+pathological conditions, signs and symptoms	urination disorders	-0.12335090121
+pathological conditions, signs and symptoms	urological manifestations	-0.229571219617
+peripheral nervous system diseases	polyneuropathies	-1.5620928401
+peripheral nervous system diseases	proteinuria	-0.0541077680381
+peripheral nervous system diseases	spastic paraplegia, hereditary	-0.794450162978
+peripheral nervous system diseases	urological manifestations	-0.0541077680381
+polyneuropathies	proteinuria	-0.0311007025758
+polyneuropathies	spastic paraplegia, hereditary	-0.858561020036
+polyneuropathies	urological manifestations	-0.0311007025758
+precursor cell lymphoblastic leukemia-lymphoma	proteinuria	-0.0936507936505
+precursor cell lymphoblastic leukemia-lymphoma	urological manifestations	-0.0936507936505
+prostatic diseases	prostatic neoplasms	-1.96721311475
+prostatic diseases	urogenital neoplasms	-1.20570264311
+prostatic neoplasms	urogenital neoplasms	-1.20570264311
+proteinuria	proteostasis deficiencies	-0.0183673469386
+proteinuria	purine-pyrimidine metabolism, inborn errors	-0.163095238097
+proteinuria	rectal diseases	-0.155657962108
+proteinuria	respiratory hypersensitivity	-0.109890109891
+proteinuria	respiratory tract diseases	-0.0127551020412
+proteinuria	respiratory tract neoplasms	-0.196428571429
+proteinuria	rheumatic diseases	-0.110899200635
+proteinuria	sarcoma	-0.1263003663
+proteinuria	signs and symptoms	-0.546480818032
+proteinuria	skin diseases, vascular	-0.0790187042558
+proteinuria	spastic paraplegia, hereditary	-0.280252100841
+proteinuria	spinal diseases	-0.003273459798
+proteinuria	spinocerebellar ataxias	-0.041666666668
+proteinuria	spinocerebellar degenerations	-0.0380952380976
+proteinuria	spondylarthritis	-0.0818452380955
+proteinuria	spondylarthropathies	-0.0818452380955
+proteinuria	spondylitis	-0.0818452380955
+proteinuria	spondylitis, ankylosing	-0.289377289377
+proteinuria	stomatognathic diseases	-0.145355439473
+proteinuria	stomatognathic system abnormalities	-0.25
+proteinuria	tauopathies	-0.0020408163261
+proteinuria	tdp-43 proteinopathies	-0.0611721611725
+proteinuria	thoracic neoplasms	-0.164075630253
+proteinuria	thyroid diseases	-0.239610389609
+proteinuria	urination disorders	-2.82142857143
+proteinuria	urologic diseases	-0.208824199538
+proteinuria	urologic neoplasms	-0.0363031234018
+proteinuria	urological manifestations	-3.14285714286
+proteinuria	varicose veins	-0.253781512605
+proteinuria	vasculitis	-0.0518883415423
+proteinuria	virus diseases	-0.123152709358
+proteostasis deficiencies	spinal cord diseases	-0.600077275772
+proteostasis deficiencies	spinocerebellar ataxias	-0.0305555555556
+proteostasis deficiencies	spinocerebellar degenerations	-0.0117216117217
+proteostasis deficiencies	tauopathies	-0.0285714285732
+proteostasis deficiencies	tdp-43 proteinopathies	-1.41428571429
+proteostasis deficiencies	urological manifestations	-0.0183673469386
+psoriasis	respiratory hypersensitivity	-0.0052334943631
+psoriasis	rheumatic diseases	-0.120171769188
+psoriasis	skin and connective tissue diseases	-0.0223168003145
+psoriasis	skin diseases	-0.19916436329
+psoriasis	skin diseases, papulosquamous	-1.81481481481
+psoriasis	skin diseases, vascular	-0.361839884624
+psoriasis	spinal diseases	-0.21429617082
+psoriasis	spondylarthritis	-0.282407407409
+psoriasis	spondylarthropathies	-0.282407407409
+psoriasis	spondylitis	-0.282407407409
+psoriasis	spondylitis, ankylosing	-0.240740740741
+psoriasis	stomatognathic diseases	-0.39923989924
+psoriasis	uveal diseases	-0.333670870542
+psoriasis	uveitis	-0.342539439554
+psoriasis	uveitis, anterior	-0.342539439554
+psoriasis	vasculitis	-0.350885668278
+purine-pyrimidine metabolism, inborn errors	rheumatic diseases	-0.449858757063
+purine-pyrimidine metabolism, inborn errors	urological manifestations	-0.163095238097
+rectal diseases	stomatognathic system abnormalities	-0.0524833589355
+rectal diseases	urination disorders	-0.021212251201
+rectal diseases	urological manifestations	-0.155657962108
+rectal diseases	varicose veins	-0.126059456041
+renal tubular transport, inborn errors	urologic diseases	-0.151128040755
+respiratory hypersensitivity	respiratory tract diseases	-1.08006912442
+respiratory hypersensitivity	rheumatic diseases	-0.0327625371317
+respiratory hypersensitivity	skin diseases, papulosquamous	-0.0052334943631
+respiratory hypersensitivity	urological manifestations	-0.109890109891
+respiratory tract diseases	respiratory tract neoplasms	-0.479341736695
+respiratory tract diseases	rheumatic diseases	-0.0770648842684
+respiratory tract diseases	thoracic neoplasms	-0.472252747251
+respiratory tract diseases	urological manifestations	-0.0127551020412
+respiratory tract neoplasms	stomatognathic diseases	-0.143980343981
+respiratory tract neoplasms	stomatognathic system abnormalities	-0.0446428571415
+respiratory tract neoplasms	thoracic neoplasms	-1.89605263158
+respiratory tract neoplasms	urination disorders	-0.170955882351
+respiratory tract neoplasms	urological manifestations	-0.196428571429
+respiratory tract neoplasms	varicose veins	-0.0105263157901
+retinal degeneration	retinal diseases	-1.60107088989
+retinal degeneration	retinal dystrophies	-1.16479289941
+retinal degeneration	retinitis pigmentosa	-1.12356913919
+retinal diseases	retinal dystrophies	-1.03736966359
+retinal diseases	retinitis pigmentosa	-0.998558542272
+retinal dystrophies	retinitis pigmentosa	-1.67440183363
+retinal dystrophies	vision disorders	-0.072958214624
+retinitis pigmentosa	vision disorders	-0.071875
+rheumatic diseases	skin and connective tissue diseases	-0.0134882558617
+rheumatic diseases	skin diseases, papulosquamous	-0.120171769188
+rheumatic diseases	spondylitis, ankylosing	-0.0009150950902
+rheumatic diseases	stomatognathic diseases	-0.174520919224
+rheumatic diseases	thyroid diseases	-0.0353456484489
+rheumatic diseases	urological manifestations	-0.110899200635
+sarcoma	urological manifestations	-0.1263003663
+sensation disorders	vision disorders	-2.03125
+signs and symptoms	urination disorders	-0.404255661346
+signs and symptoms	urological manifestations	-0.546480818032
+skin abnormalities	skin diseases	-0.168269734964
+skin abnormalities	skin diseases, genetic	-0.849816849817
+skin and connective tissue diseases	skin diseases	-1.14642163613
+skin and connective tissue diseases	skin diseases, genetic	-0.352382138315
+skin and connective tissue diseases	skin diseases, papulosquamous	-0.0223168003145
+skin and connective tissue diseases	vascular diseases	-0.0114109682683
+skin diseases	skin diseases, genetic	-0.608127208068
+skin diseases	skin diseases, papulosquamous	-0.19916436329
+skin diseases	vascular diseases	-0.0653829660794
+skin diseases, papulosquamous	skin diseases, vascular	-0.361839884624
+skin diseases, papulosquamous	spinal diseases	-0.21429617082
+skin diseases, papulosquamous	spondylarthritis	-0.282407407409
+skin diseases, papulosquamous	spondylarthropathies	-0.282407407409
+skin diseases, papulosquamous	spondylitis	-0.282407407409
+skin diseases, papulosquamous	spondylitis, ankylosing	-0.240740740741
+skin diseases, papulosquamous	stomatognathic diseases	-0.39923989924
+skin diseases, papulosquamous	uveal diseases	-0.333670870542
+skin diseases, papulosquamous	uveitis	-0.342539439554
+skin diseases, papulosquamous	uveitis, anterior	-0.342539439554
+skin diseases, papulosquamous	vasculitis	-0.350885668278
+skin diseases, vascular	spinal diseases	-0.0545396419455
+skin diseases, vascular	spondylarthritis	-0.147759103643
+skin diseases, vascular	spondylarthropathies	-0.147759103643
+skin diseases, vascular	spondylitis	-0.147759103643
+skin diseases, vascular	spondylitis, ankylosing	-0.387085868832
+skin diseases, vascular	stomatognathic diseases	-0.991138197023
+skin diseases, vascular	thyroid diseases	-0.166958698373
+skin diseases, vascular	urological manifestations	-0.0790187042558
+skin diseases, vascular	uveal diseases	-1.64705882353
+skin diseases, vascular	uveitis	-1.83182503771
+skin diseases, vascular	uveitis, anterior	-1.83182503771
+skin diseases, vascular	varicose veins	-0.0639109697961
+skin diseases, vascular	vasculitis	-1.96740196078
+spastic paraplegia, hereditary	spondylitis, ankylosing	-0.0458333333336
+spastic paraplegia, hereditary	urination disorders	-0.167361111111
+spastic paraplegia, hereditary	urological manifestations	-0.280252100841
+spastic paraplegia, hereditary	varicose veins	-0.1
+spinal cord diseases	spinocerebellar ataxias	-1.07276794411
+spinal cord diseases	spinocerebellar degenerations	-1.16520027931
+spinal cord diseases	tdp-43 proteinopathies	-0.727078288941
+spinal diseases	spondylarthritis	-1.51528808766
+spinal diseases	spondylarthropathies	-1.51528808766
+spinal diseases	spondylitis	-1.51528808766
+spinal diseases	spondylitis, ankylosing	-1.53892339545
+spinal diseases	urological manifestations	-0.003273459798
+spinal diseases	uveal diseases	-0.104539641946
+spinal diseases	uveitis	-0.07933853586
+spinal diseases	uveitis, anterior	-0.07933853586
+spinal diseases	vasculitis	-0.0632341723866
+spinocerebellar ataxias	spinocerebellar degenerations	-1.80964696223
+spinocerebellar ataxias	tdp-43 proteinopathies	-0.0917115902985
+spinocerebellar ataxias	urological manifestations	-0.041666666668
+spinocerebellar ataxias	varicose veins	-0.017261904762
+spinocerebellar degenerations	tdp-43 proteinopathies	-0.0666666666657
+spinocerebellar degenerations	urological manifestations	-0.0380952380976
+spinocerebellar degenerations	varicose veins	-0.00666666666665
+spondylarthritis	spondylarthropathies	-1.83333333333
+spondylarthritis	spondylitis	-1.83333333333
+spondylarthritis	spondylitis, ankylosing	-1.91666666667
+spondylarthritis	urological manifestations	-0.0818452380955
+spondylarthritis	uveal diseases	-0.147759103644
+spondylarthritis	uveitis	-0.219396195202
+spondylarthritis	uveitis, anterior	-0.219396195202
+spondylarthritis	vasculitis	-0.165151515153
+spondylarthropathies	spondylitis	-1.83333333333
+spondylarthropathies	spondylitis, ankylosing	-1.91666666667
+spondylarthropathies	urological manifestations	-0.0818452380955
+spondylarthropathies	uveal diseases	-0.147759103644
+spondylarthropathies	uveitis	-0.219396195202
+spondylarthropathies	uveitis, anterior	-0.219396195202
+spondylarthropathies	vasculitis	-0.165151515153
+spondylitis	spondylitis, ankylosing	-1.91666666667
+spondylitis	urological manifestations	-0.0818452380955
+spondylitis	uveal diseases	-0.147759103644
+spondylitis	uveitis	-0.219396195202
+spondylitis	uveitis, anterior	-0.219396195202
+spondylitis	vasculitis	-0.165151515153
+spondylitis, ankylosing	stomatognathic diseases	-0.189373046517
+spondylitis, ankylosing	thyroid diseases	-0.0999999999991
+spondylitis, ankylosing	urination disorders	-0.168154761905
+spondylitis, ankylosing	urological manifestations	-0.289377289377
+spondylitis, ankylosing	uveal diseases	-0.387085868833
+spondylitis, ankylosing	uveitis	-0.450256410257
+spondylitis, ankylosing	uveitis, anterior	-0.450256410257
+spondylitis, ankylosing	varicose veins	-0.0708333333336
+spondylitis, ankylosing	vasculitis	-0.400000000002
+stomatognathic diseases	stomatognathic system abnormalities	-1.46475956476
+stomatognathic diseases	thoracic neoplasms	-0.119618302512
+stomatognathic diseases	thyroid diseases	-0.202460669623
+stomatognathic diseases	urological manifestations	-0.145355439473
+stomatognathic diseases	uveal diseases	-0.991138197021
+stomatognathic diseases	uveitis	-1.01908523909
+stomatognathic diseases	uveitis, anterior	-1.01908523909
+stomatognathic diseases	varicose veins	-0.128828828828
+stomatognathic diseases	vascular diseases	-0.0606364892941
+stomatognathic diseases	vasculitis	-0.978828828829
+stomatognathic system abnormalities	thoracic neoplasms	-0.0380252100829
+stomatognathic system abnormalities	urination disorders	-0.0967261904743
+stomatognathic system abnormalities	urological manifestations	-0.25
+stomatognathic system abnormalities	varicose veins	-0.127731092437
+tauopathies	urological manifestations	-0.0020408163261
+tdp-43 proteinopathies	urological manifestations	-0.0611721611725
+thoracic neoplasms	urination disorders	-0.131250000002
+thoracic neoplasms	urological manifestations	-0.164075630253
+thyroid diseases	urination disorders	-0.0932065217382
+thyroid diseases	urological manifestations	-0.239610389609
+thyroid diseases	uveal diseases	-0.103128911142
+thyroid diseases	uveitis	-0.0606440071552
+thyroid diseases	uveitis, anterior	-0.0606440071552
+thyroid diseases	vasculitis	-0.0999999999986
+urination disorders	urologic diseases	-0.119700292399
+urination disorders	urological manifestations	-2.82142857143
+urination disorders	varicose veins	-0.0673611111118
+urogenital neoplasms	urologic diseases	-0.177810582722
+urogenital neoplasms	urologic neoplasms	-0.519545665017
+urologic diseases	urologic neoplasms	-0.206707682653
+urologic diseases	urological manifestations	-0.208824199538
+urologic neoplasms	urological manifestations	-0.0363031234018
+urological manifestations	varicose veins	-0.253781512605
+urological manifestations	vasculitis	-0.0518883415423
+urological manifestations	virus diseases	-0.123152709358
+uveal diseases	uveitis	-1.86515837104
+uveal diseases	uveitis, anterior	-1.86515837104
+uveal diseases	varicose veins	-0.117965023851
+uveal diseases	vasculitis	-1.77990196079
+uveitis	uveitis, anterior	-2.15384615385
+uveitis	vasculitis	-2.00073260073
+uveitis, anterior	vasculitis	-2.00073260073
+varicose veins	vascular diseases	-0.159129765539
+varicose veins	vasculitis	-0.0238095238078

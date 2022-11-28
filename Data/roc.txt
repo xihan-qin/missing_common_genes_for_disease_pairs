@@ -1,0 +1,5 @@
+abnormalities, multiple&congenital abnormalities	1.0	10	5	0.16227863806417664
+abnormalities, multiple&chromosome disorders	1.0	10	4	0.13692268809828712
+abnormalities, multiple&musculoskeletal diseases	1.0	10	2	0.27414801142948214
+abnormalities, multiple&skin abnormalities	1.0	10	5	0.2779889902232319
+abnormalities, multiple&musculoskeletal abnormalities	1.0	10	5	0.2380530379890391
